@@ -5,8 +5,8 @@ import { firstValueFrom } from 'rxjs';
 
 @Injectable()
 export class SegmentacionService {
-  private readonly API_BASE = 'https://endpointsegmentacion-ykgn9.ondigitalocean.app/api';
-  private readonly API_BASE_CLIENTES = 'https://endpointsegmentacion-ykgn9.ondigitalocean.app/api'; 
+  private readonly API_BASE = 'https://hammerhead-app-4vfrt.ondigitalocean.app/api';
+  private readonly API_BASE_CLIENTES = 'https://dolphin-app-4mb4i.ondigitalocean.app/api'; 
 
 
   constructor(private readonly httpService: HttpService) {}

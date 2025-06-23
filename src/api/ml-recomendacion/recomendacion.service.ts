@@ -5,7 +5,7 @@ import { AxiosResponse } from 'axios'; // 👈 Importa AxiosResponse para tipar 
 
 @Injectable()
 export class RecomendacionService {
-  private readonly API_RECOMENDACION_BASE = 'https://endpointrecomendacion-qjj5u.ondigitalocean.app/api/productos'; 
+  private readonly API_RECOMENDACION_BASE = 'https://recomendacion-m97up.ondigitalocean.app/api/productos'; 
 
   constructor(private readonly httpService: HttpService) {}
 
@@ -25,7 +25,7 @@ export class RecomendacionService {
   async obtenerProductosRecomendados(clienteId: string): Promise<any> {
     try {
       const response: AxiosResponse<any> = await firstValueFrom(
-        this.httpService.get(`${this.API_RECOMENDACION_BASE}/recomendados/${clienteId}`)
+        this.httpService.get(`${this.API_RECOMENDACION_BASE}/recomendados-contenido/${clienteId}`)
       );
       return response.data;
     } catch (error) {
