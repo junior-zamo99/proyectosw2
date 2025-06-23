@@ -3,7 +3,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { MongooseModule } from '@nestjs/mongoose';
 import { UsuarioModule } from './api/usuario/usuario.module';
-
+import { ConfigModule as NestConfigModule } from '@nestjs/config';
 import { ProductoModule } from './api/producto/producto.module';
 
 import { LogModule } from './api/log/log.module';
@@ -69,7 +69,11 @@ import { ConfigTiendaModule } from './api/config-tienda/config-tienda.module';
     LinealModule,
     RecomendacionModule,
     ArbolModule,
-    ConfigTiendaModule
+    ConfigTiendaModule,
+     NestConfigModule.forRoot({
+      isGlobal: true,
+      envFilePath: '.env',
+    }),
   ],
   controllers: [AppController],
   providers: [AppService
