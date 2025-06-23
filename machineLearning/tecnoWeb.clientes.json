@@ -1,0 +1,3216 @@
+[{
+  "_id": {
+    "$oid": "6801c8641f2f8ab56b0886d8"
+  },
+  "nombres": "Milton",
+  "apellidos": "6",
+  "email": "milton@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$dIROtoHMUt8XcwKMh5YJkOV/9PKs9VRvjz.7.cbZxNY5/grb5rXCW",
+  "estado": true,
+  "fullname": "Milton 6",
+  "createdAT": {
+    "$date": "2025-04-18T03:35:00.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45cd"
+  },
+  "nombres": "David",
+  "apellidos": "Vega",
+  "email": "davidvega125@outlook.com",
+  "email_validacion": false,
+  "password": "$2b$10$hYAPZ/B7SkZoQlodL4eBDumXOqGi3EP6au6HzLZn.GxcGl4OCaMlG",
+  "estado": true,
+  "fullname": "David Vega",
+  "createdAT": {
+    "$date": "2024-11-03T11:40:27.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45ce"
+  },
+  "nombres": "Laura Fernanda",
+  "apellidos": "Arias Esteban",
+  "email": "ariasl@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$3J.T5ozRY36bZSInmjlUN.q2FdK2w2LxzCNgpxQVrFiTDgejKh/Im",
+  "estado": true,
+  "fullname": "Laura Fernanda Arias Esteban",
+  "createdAT": {
+    "$date": "2025-04-10T22:16:58.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45cf"
+  },
+  "nombres": "Javier Rafael",
+  "apellidos": "Cortés",
+  "email": "javier.cortés@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$9D1Ykg6xPZNcTP1GePfkV.l5Mbw5XMxb/UapVw6SQZUihCtrePnB.",
+  "estado": true,
+  "fullname": "Javier Rafael Cortés",
+  "createdAT": {
+    "$date": "2024-12-02T11:08:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d0"
+  },
+  "nombres": "Arturo",
+  "apellidos": "Serrano Castillo",
+  "email": "aserrano@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$.y9BNgVAJApGxltoKPhD8.UvFDUR4DL1PWdfEKGUXXD2rn1Fkojny",
+  "estado": true,
+  "fullname": "Arturo Serrano Castillo",
+  "createdAT": {
+    "$date": "2024-10-28T18:38:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d1"
+  },
+  "nombres": "Salvador",
+  "apellidos": "Martínez Cano",
+  "email": "smartínez@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$6OYHaBsjXMndsLucv82k3.jfXEEcsJj3GjZAVpQnemmLXALSGCLYO",
+  "estado": true,
+  "fullname": "Salvador Martínez Cano",
+  "createdAT": {
+    "$date": "2025-01-22T06:58:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d2"
+  },
+  "nombres": "Ernesto Gabriel",
+  "apellidos": "Ibáñez Márquez",
+  "email": "ibáñez.ernesto@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$UyBVAM.LjcwzJUfeWpDGKeQlXm5hF8gfgBIe6aAGiGIAbTA8eY1uG",
+  "estado": true,
+  "fullname": "Ernesto Gabriel Ibáñez Márquez",
+  "createdAT": {
+    "$date": "2025-04-07T08:55:56.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d3"
+  },
+  "nombres": "Jorge Diego",
+  "apellidos": "Campos",
+  "email": "jcampos@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$5aJv8BodbiSfiAN7XeHdHujKTq8I0ryPREohPFppO45fv8yXPrq/y",
+  "estado": true,
+  "fullname": "Jorge Diego Campos",
+  "createdAT": {
+    "$date": "2025-03-30T02:21:39.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d4"
+  },
+  "nombres": "Diego Pablo",
+  "apellidos": "Núñez",
+  "email": "dnúñez@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$XcEYrMvjyqq6MMfuOydMnuh3h8o4vIEo3mHhIM30lfZ97FvyR7lA2",
+  "estado": true,
+  "fullname": "Diego Pablo Núñez",
+  "createdAT": {
+    "$date": "2025-03-18T20:27:41.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d5"
+  },
+  "nombres": "Juana",
+  "apellidos": "Sanz Santiago",
+  "email": "juana.sanz@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$3kTbY5R/2OESJ7I6SSOtDer3v4f216.Z/VyYXcBELlFMlq9yqXiTq",
+  "estado": true,
+  "fullname": "Juana Sanz Santiago",
+  "createdAT": {
+    "$date": "2025-04-10T07:44:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d6"
+  },
+  "nombres": "María Gabriela",
+  "apellidos": "Delgado",
+  "email": "maríadelgado421@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$B1vrEg85zfH4S/ZTZSPrhOAAVdMuWhz2JfcLROXrmacx9k1xKVS3a",
+  "estado": true,
+  "fullname": "María Gabriela Delgado",
+  "createdAT": {
+    "$date": "2025-03-23T04:21:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d7"
+  },
+  "nombres": "Pedro",
+  "apellidos": "Méndez",
+  "email": "pedro.méndez@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$jF32baz23v/rzFr1cXss5OA91udYGRAy781Sfv6tbtCAsuYO.JoHK",
+  "estado": true,
+  "fullname": "Pedro Méndez",
+  "createdAT": {
+    "$date": "2025-01-10T00:36:11.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d8"
+  },
+  "nombres": "Julia",
+  "apellidos": "Benítez Gómez",
+  "email": "julia122@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$D6L4vCFRQG3hHTsAhMgTFe.VVk6NG1boZw4uoeKxsQGiYDVZ7uCp.",
+  "estado": true,
+  "fullname": "Julia Benítez Gómez",
+  "createdAT": {
+    "$date": "2024-12-30T08:41:34.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45d9"
+  },
+  "nombres": "Salvador Diego",
+  "apellidos": "Ramos",
+  "email": "salvadorramos99@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$uMQ20e8B9dOt3rKU9BtWEul3oz1fy.Ynu0u9f101BiG8APQ5fJ5dG",
+  "estado": true,
+  "fullname": "Salvador Diego Ramos",
+  "createdAT": {
+    "$date": "2024-10-26T18:29:24.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45da"
+  },
+  "nombres": "Salvador",
+  "apellidos": "Vicente",
+  "email": "salvadorvicente89@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$uFT2JNNqR283.3dueNtAOOB6FLNExxMS/3CErEQJsqIlKcGlSDR3y",
+  "estado": true,
+  "fullname": "Salvador Vicente",
+  "createdAT": {
+    "$date": "2025-03-19T16:44:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45db"
+  },
+  "nombres": "Patricia",
+  "apellidos": "Moya",
+  "email": "patricia437@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$2b4xDWHMvYpNH5u6KD1QKusAfXyeJwp4AD60UZBUdCY41F./225hW",
+  "estado": true,
+  "fullname": "Patricia Moya",
+  "createdAT": {
+    "$date": "2024-10-30T17:13:43.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56b420d5c4819be45dc"
+  },
+  "nombres": "Laura Adriana",
+  "apellidos": "Garrido",
+  "email": "garridol@hotmail.com",
+  "email_validacion": false,
+  "password": "$2b$10$iJvsXk4lxVo4j.l24weVc.cRsC7r9QKSvrxpiSdAW.hUsfUxVCa9y",
+  "estado": true,
+  "fullname": "Laura Adriana Garrido",
+  "createdAT": {
+    "$date": "2025-01-03T23:36:53.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45dd"
+  },
+  "nombres": "Luisa",
+  "apellidos": "Caballero Alonso",
+  "email": "lcaballero@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$FpY9uacrXm8ZBsPH8WqURe/.Ixai7ESZjqCEvQxbc3iQaWHIKkNcS",
+  "estado": true,
+  "fullname": "Luisa Caballero Alonso",
+  "createdAT": {
+    "$date": "2025-03-02T06:43:20.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45de"
+  },
+  "nombres": "Leticia",
+  "apellidos": "Muñoz Carmona",
+  "email": "muñoz.leticia@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$hFrey00sGyWr2WED2VDtNuBB4Vfgy0quWdkogcXEuy5alGkp3.OyW",
+  "estado": true,
+  "fullname": "Leticia Muñoz Carmona",
+  "createdAT": {
+    "$date": "2024-11-02T14:48:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45df"
+  },
+  "nombres": "Ana",
+  "apellidos": "Marín Cano",
+  "email": "ana_marín@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$RXUM3V3WcGHEZ0NAy2tmSuRL8RfX3g41g0SKq8MAZEouMBqc6rTAK",
+  "estado": true,
+  "fullname": "Ana Marín Cano",
+  "createdAT": {
+    "$date": "2024-12-30T13:56:03.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e0"
+  },
+  "nombres": "Laura Lucía",
+  "apellidos": "Montero Moreno",
+  "email": "lmontero@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$SPJlc2MnWKFeQw122zd.ZOqW7PsgPjgnLAYI8I9wC6sE68ghjb9NW",
+  "estado": true,
+  "fullname": "Laura Lucía Montero Moreno",
+  "createdAT": {
+    "$date": "2025-03-29T19:19:32.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e1"
+  },
+  "nombres": "Guadalupe",
+  "apellidos": "Álvarez Sanz",
+  "email": "guadalupe_álvarez@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$somgWD2pGIhPLOuLElZUuuEAGGEpipTfz.bBIJH9MeF2FKzmeS/QK",
+  "estado": true,
+  "fullname": "Guadalupe Álvarez Sanz",
+  "createdAT": {
+    "$date": "2025-01-24T05:10:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e2"
+  },
+  "nombres": "Beatriz Juana",
+  "apellidos": "Reyes Alonso",
+  "email": "beatrizreyes92@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$ei3lhcC/MV5NmP2qfMza6.13n32TeexUpwZ3i2aS9xC.9UHU4dtD.",
+  "estado": true,
+  "fullname": "Beatriz Juana Reyes Alonso",
+  "createdAT": {
+    "$date": "2025-02-12T14:20:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e3"
+  },
+  "nombres": "Eduardo Andrés",
+  "apellidos": "Cano Vicente",
+  "email": "cano.eduardo@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$6Y/cLccPDtmct31Hd2MskOGhj1f0./xpgeLPi4V8pef2PYCprFDLi",
+  "estado": true,
+  "fullname": "Eduardo Andrés Cano Vicente",
+  "createdAT": {
+    "$date": "2025-03-28T22:29:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e4"
+  },
+  "nombres": "José",
+  "apellidos": "Soler Rodríguez",
+  "email": "josé_soler@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$NmlauFUrc5q59nn6Zt53K.3vjIylKpCFAXCTsCFO6wGxi//290YW2",
+  "estado": true,
+  "fullname": "José Soler Rodríguez",
+  "createdAT": {
+    "$date": "2024-11-20T06:11:18.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e5"
+  },
+  "nombres": "Jorge Pablo",
+  "apellidos": "Vargas Gallardo",
+  "email": "vargasj@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$hHVWmCRvetamh/OlbuYUV.Ym5STelFJfgeLbi1CkQPg91SOLTTjxm",
+  "estado": true,
+  "fullname": "Jorge Pablo Vargas Gallardo",
+  "createdAT": {
+    "$date": "2025-02-21T02:07:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e6"
+  },
+  "nombres": "Salvador",
+  "apellidos": "Medina",
+  "email": "smedina@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$MHY3t7T64FKJLEAU/w4hZexRrob41R.VosRsPdOltzk9L67bLJlSm",
+  "estado": true,
+  "fullname": "Salvador Medina",
+  "createdAT": {
+    "$date": "2025-01-07T10:14:43.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e7"
+  },
+  "nombres": "Laura Daniela",
+  "apellidos": "Crespo Hidalgo",
+  "email": "crespo.laura@aol.com",
+  "email_validacion": false,
+  "password": "$2b$10$hGrqRQxIxN1oRGML/R95G.pgD6ott6znu4R5SYDDPH/E5GSaFFOuy",
+  "estado": true,
+  "fullname": "Laura Daniela Crespo Hidalgo",
+  "createdAT": {
+    "$date": "2025-02-03T21:12:32.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e8"
+  },
+  "nombres": "Arturo",
+  "apellidos": "Gil",
+  "email": "arturo28@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$N/vMlxsWNiIz8EmRthYmhuYfguH3tTurkg/rOOU/14n9Ix6VikjN6",
+  "estado": true,
+  "fullname": "Arturo Gil",
+  "createdAT": {
+    "$date": "2025-01-08T22:35:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45e9"
+  },
+  "nombres": "Enrique",
+  "apellidos": "Núñez",
+  "email": "enriquenúñez723@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$AuJexC79A7o0mWLyqP28D.4Pp9uLiSZ8Tzby0tkrG4FT26xGs3LIK",
+  "estado": true,
+  "fullname": "Enrique Núñez",
+  "createdAT": {
+    "$date": "2025-03-30T22:53:07.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45ea"
+  },
+  "nombres": "Jorge Andrés",
+  "apellidos": "Rubio",
+  "email": "jorge443@hotmail.com",
+  "email_validacion": false,
+  "password": "$2b$10$6X4CqSYYVXxS3XHFpcPQzOYqd3ktWE/WkSxMcJawnpvP7OHjri2FO",
+  "estado": true,
+  "fullname": "Jorge Andrés Rubio",
+  "createdAT": {
+    "$date": "2024-11-23T12:51:46.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45eb"
+  },
+  "nombres": "Beatriz",
+  "apellidos": "Iglesias",
+  "email": "beatriz.iglesias@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$dRyDyAkd2S1j3ZTDo9dpKeO8af1QGHN2CInWq.kjUqFFNqqalGtbi",
+  "estado": true,
+  "fullname": "Beatriz Iglesias",
+  "createdAT": {
+    "$date": "2024-12-11T23:58:20.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45ec"
+  },
+  "nombres": "Cecilia",
+  "apellidos": "Gil Pascual",
+  "email": "gilc@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$BPjFX.Q49Wf9uZ2Pw.DEiOQcU0RTyJyl/sfB9ZWbCN92AzDl1Whiu",
+  "estado": true,
+  "fullname": "Cecilia Gil Pascual",
+  "createdAT": {
+    "$date": "2025-03-28T23:32:11.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56c420d5c4819be45ed"
+  },
+  "nombres": "Juan",
+  "apellidos": "Caballero",
+  "email": "juan.caballero@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$kLg/TVtCWPH.mfpUDvmG6.5FdCxQZPdag7XRIVBodQowLC9Vk0ihW",
+  "estado": true,
+  "fullname": "Juan Caballero",
+  "createdAT": {
+    "$date": "2024-12-15T07:22:57.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45ee"
+  },
+  "nombres": "Alejandra Daniela",
+  "apellidos": "Martínez Ramírez",
+  "email": "alejandra31@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$HHowrMBAt1jmiayq7DOW7OTiohOtfvHkdMJZP4wrPyECp/oyDrF0.",
+  "estado": true,
+  "fullname": "Alejandra Daniela Martínez Ramírez",
+  "createdAT": {
+    "$date": "2025-03-02T06:59:03.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45ef"
+  },
+  "nombres": "Carlos César",
+  "apellidos": "Vázquez",
+  "email": "carlosvázquez77@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$tSO3QH2IYfw90te9396D0O5A2wTT6osszGX6efihBoXEMTMJtAQVa",
+  "estado": true,
+  "fullname": "Carlos César Vázquez",
+  "createdAT": {
+    "$date": "2025-03-17T07:07:19.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f0"
+  },
+  "nombres": "Francisco Víctor",
+  "apellidos": "Hernández",
+  "email": "francisco_hernández@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$4uebPXO9Wd9Pv8NHPw1Oie/xg.T5FXMdLnr6Y.S0/qQRxKf1RZMgS",
+  "estado": true,
+  "fullname": "Francisco Víctor Hernández",
+  "createdAT": {
+    "$date": "2024-11-09T04:43:35.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f1"
+  },
+  "nombres": "Susana Mónica",
+  "apellidos": "González Rojas",
+  "email": "gonzálezs@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$VWElvxFIoaYMxIFOiypu9e75/SghERvK0rxke094m8Xm1XYry8m2e",
+  "estado": true,
+  "fullname": "Susana Mónica González Rojas",
+  "createdAT": {
+    "$date": "2025-01-15T23:03:56.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f2"
+  },
+  "nombres": "Marcos",
+  "apellidos": "Alonso Pascual",
+  "email": "malonso@zoho.com",
+  "email_validacion": false,
+  "password": "$2b$10$fRkobiAlDkQQrBPBpBOBduD1GGB.1hZ8.K/NIZ7lyWIcD3kVTXMTO",
+  "estado": true,
+  "fullname": "Marcos Alonso Pascual",
+  "createdAT": {
+    "$date": "2024-12-26T05:38:10.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f3"
+  },
+  "nombres": "Beatriz",
+  "apellidos": "Hidalgo",
+  "email": "beatriz.hidalgo@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$GsnA/Yh4sSsDkmGZ2ywHCucoeQrBfcATgir9CtOk5Yv5e2xmhecri",
+  "estado": true,
+  "fullname": "Beatriz Hidalgo",
+  "createdAT": {
+    "$date": "2025-02-15T23:03:25.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f4"
+  },
+  "nombres": "Alfredo Arturo",
+  "apellidos": "Vargas",
+  "email": "vargasa@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$52wp8ZmgHwWqlxXrwmbHoucKQjv7B7uHDYZnljiyxV7P5imLJqeay",
+  "estado": true,
+  "fullname": "Alfredo Arturo Vargas",
+  "createdAT": {
+    "$date": "2024-11-17T15:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f5"
+  },
+  "nombres": "Pilar Fernanda",
+  "apellidos": "Cortés Jiménez",
+  "email": "cortésp@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$GwSjxoyoH0CLkGo.EDv9w.d3JHH8.8KJNC75xb03qy91kgyDEyf7m",
+  "estado": true,
+  "fullname": "Pilar Fernanda Cortés Jiménez",
+  "createdAT": {
+    "$date": "2025-04-06T15:41:31.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f6"
+  },
+  "nombres": "Adriana Guadalupe",
+  "apellidos": "Díaz",
+  "email": "díaz.adriana@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$.zRE/zrg.fKxCWqnbYYk..k6U4o2ofqZHG94jRtQx8L7SXqgPRZcu",
+  "estado": true,
+  "fullname": "Adriana Guadalupe Díaz",
+  "createdAT": {
+    "$date": "2024-12-06T06:31:15.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f7"
+  },
+  "nombres": "Julio",
+  "apellidos": "Molina Vázquez",
+  "email": "julio562@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$cwdsw8Y8MrAkyTPqJUr6MuyJ5.OhN0Yo43fP.9xNGY7l5j2JYjMcq",
+  "estado": true,
+  "fullname": "Julio Molina Vázquez",
+  "createdAT": {
+    "$date": "2024-10-24T14:38:23.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f8"
+  },
+  "nombres": "Camila",
+  "apellidos": "Ortiz Cabrera",
+  "email": "camilaortiz72@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$7m4VEDYC8dd1PN9p2QgsGuOeiNr27mi7lAn79bwMcfgA10QBzv.am",
+  "estado": true,
+  "fullname": "Camila Ortiz Cabrera",
+  "createdAT": {
+    "$date": "2025-04-09T21:39:56.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45f9"
+  },
+  "nombres": "Fernando",
+  "apellidos": "Rodríguez Cruz",
+  "email": "fernandorodríguez333@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$FpgBqtdniHvtFZTrHTDAZOgCSA41CHYOoz2izDvz1OBxZMyB3Zrjm",
+  "estado": true,
+  "fullname": "Fernando Rodríguez Cruz",
+  "createdAT": {
+    "$date": "2024-12-07T16:50:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45fa"
+  },
+  "nombres": "Natalia Laura",
+  "apellidos": "Cruz",
+  "email": "cruzn@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$pTLTL2vj.2XVBIfVvdn2ruwczFVXQbcWHFaIial7b7yWbQz7V9wyW",
+  "estado": true,
+  "fullname": "Natalia Laura Cruz",
+  "createdAT": {
+    "$date": "2025-03-02T17:20:51.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45fb"
+  },
+  "nombres": "Diana Cecilia",
+  "apellidos": "Díaz",
+  "email": "dianadíaz739@aol.com",
+  "email_validacion": false,
+  "password": "$2b$10$m/aIuHebTIonae/TNkNoD..lk0X6ID9ha6Lpz/l/wWeVpcd880YB2",
+  "estado": true,
+  "fullname": "Diana Cecilia Díaz",
+  "createdAT": {
+    "$date": "2024-12-12T11:41:14.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45fc"
+  },
+  "nombres": "Víctor",
+  "apellidos": "Campos",
+  "email": "víctorcampos72@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$CiWdrk6yxtTk5sk1lC49YO.T346d38TXA74sgQDd20CzWz6ZBZFoi",
+  "estado": true,
+  "fullname": "Víctor Campos",
+  "createdAT": {
+    "$date": "2025-01-09T19:37:32.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45fd"
+  },
+  "nombres": "Laura",
+  "apellidos": "Rodríguez Castro",
+  "email": "laura933@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$lv3I1xfUhxwwTLw4RL.4U.g3NFXuq8GzofkXV.EpPoN.JfQiTLdsy",
+  "estado": true,
+  "fullname": "Laura Rodríguez Castro",
+  "createdAT": {
+    "$date": "2025-01-05T05:19:20.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56d420d5c4819be45fe"
+  },
+  "nombres": "Gabriel Pablo",
+  "apellidos": "Herrera",
+  "email": "gherrera@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$8r6LVg56TaagCP7ZuWWNwuP8LMNSkEovSEUh3JGsgxLQoilMeyK8K",
+  "estado": true,
+  "fullname": "Gabriel Pablo Herrera",
+  "createdAT": {
+    "$date": "2025-02-20T11:03:08.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be45ff"
+  },
+  "nombres": "Julio Roberto",
+  "apellidos": "Cortés Calvo",
+  "email": "juliocortés174@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$U11lFYMjrZV1r/Ds/DN1Ge1Jgxf8nhEZlve7xPvNGXKXWdnr281EC",
+  "estado": true,
+  "fullname": "Julio Roberto Cortés Calvo",
+  "createdAT": {
+    "$date": "2025-03-18T17:30:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4600"
+  },
+  "nombres": "Silvia",
+  "apellidos": "Sánchez",
+  "email": "silviasánchez80@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$nFS9Kd3L029G0blxCPAzRelOVtPcUXYzd7Iw9.Dj0xR4ZMSO5PSI2",
+  "estado": true,
+  "fullname": "Silvia Sánchez",
+  "createdAT": {
+    "$date": "2025-01-07T06:15:57.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4601"
+  },
+  "nombres": "José Víctor",
+  "apellidos": "Sáez Ortiz",
+  "email": "josé.sáez@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$.j3KkyppG4z8Y8GkCVRD6OSa32vuyJMUm.tN0ToKk.d4gA8/QM77C",
+  "estado": true,
+  "fullname": "José Víctor Sáez Ortiz",
+  "createdAT": {
+    "$date": "2024-11-12T11:50:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4602"
+  },
+  "nombres": "Juan Ricardo",
+  "apellidos": "Moya Suárez",
+  "email": "juan818@hotmail.com",
+  "email_validacion": false,
+  "password": "$2b$10$EzYniwNnSeZ/Xxfc/v/2/es98LrfdY2fQmUM2zZ/Vgj3KKrwAisE2",
+  "estado": true,
+  "fullname": "Juan Ricardo Moya Suárez",
+  "createdAT": {
+    "$date": "2025-01-07T03:47:44.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4603"
+  },
+  "nombres": "Antonia",
+  "apellidos": "Campos Ramírez",
+  "email": "antonia_campos@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$zUzvBWOkEyTUSYvZOkbmHeZ2Vg9iaUGZYAxO46tHL6Jdgwp6awMQS",
+  "estado": true,
+  "fullname": "Antonia Campos Ramírez",
+  "createdAT": {
+    "$date": "2025-03-22T07:11:16.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4604"
+  },
+  "nombres": "Francisco",
+  "apellidos": "Pascual Díez",
+  "email": "francisco.pascual@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$npucDXuzyB2GaM7ZnzWg6e/Rv1OBcC.YMjlosn7Cm02oyQKHTAvUe",
+  "estado": true,
+  "fullname": "Francisco Pascual Díez",
+  "createdAT": {
+    "$date": "2025-03-27T21:24:37.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4605"
+  },
+  "nombres": "Mónica",
+  "apellidos": "Vega",
+  "email": "mónicavega13@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$Uk/hE/lJsUeucOMneXyqfu4VB29dgfoO7gemjgBD4lr04f.Zsphry",
+  "estado": true,
+  "fullname": "Mónica Vega",
+  "createdAT": {
+    "$date": "2025-01-18T13:27:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4606"
+  },
+  "nombres": "David Miguel",
+  "apellidos": "Fuentes Guerrero",
+  "email": "david.fuentes@icloud.com",
+  "email_validacion": false,
+  "password": "$2b$10$fkHji3cMjMf3Be4v47ivVuJmmKLrTa9F4rGUytrXTfibhZDxWwZh6",
+  "estado": false,
+  "fullname": "David Miguel Fuentes Guerrero",
+  "createdAT": {
+    "$date": "2025-04-13T03:08:35.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4607"
+  },
+  "nombres": "Valeria",
+  "apellidos": "Alonso Vega",
+  "email": "valonso@gmail.com",
+  "email_validacion": false,
+  "password": "$2b$10$.TwvTyHLNGIwHVw5YKL9t.kmfwJSti6nWEQy9RhR9fa9XzquNLTCm",
+  "estado": true,
+  "fullname": "Valeria Alonso Vega",
+  "createdAT": {
+    "$date": "2024-12-26T07:18:26.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4608"
+  },
+  "nombres": "Martín Miguel",
+  "apellidos": "Santiago",
+  "email": "msantiago@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$bnVJfUu7qsY.0/E4anyxMOpfWjXmaRZODVveVeb9ZOatiCuuCY6Am",
+  "estado": true,
+  "fullname": "Martín Miguel Santiago",
+  "createdAT": {
+    "$date": "2025-03-07T13:49:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be4609"
+  },
+  "nombres": "Alfredo",
+  "apellidos": "Peña Soto",
+  "email": "alfredo.peña@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$8iSshfUMI3nfI1ZziU.WGeOd6ciLmHjoLBYCKXdn4KObpCCw4ZQYG",
+  "estado": true,
+  "fullname": "Alfredo Peña Soto",
+  "createdAT": {
+    "$date": "2025-02-02T16:43:38.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be460a"
+  },
+  "nombres": "Alberto",
+  "apellidos": "Gómez Herrera",
+  "email": "albertogómez88@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$wJ6zHhJ.esSV0MpcGW1Y7..yCkI/drHkYE14zLYfwzPaooCbgNLC6",
+  "estado": true,
+  "fullname": "Alberto Gómez Herrera",
+  "createdAT": {
+    "$date": "2025-02-14T15:35:18.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be460b"
+  },
+  "nombres": "Natalia",
+  "apellidos": "Flores",
+  "email": "natalia.flores@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$dikypg6ar2il/vmUE5Q6H.7ZEni0ujZ8bPWPVJpbw8htD2nAd5HHO",
+  "estado": true,
+  "fullname": "Natalia Flores",
+  "createdAT": {
+    "$date": "2024-12-25T04:32:19.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be460c"
+  },
+  "nombres": "Antonia Verónica",
+  "apellidos": "Castro Muñoz",
+  "email": "antoniacastro77@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$JVzhtpB7S8ZKjp3egyTpM.Gq.6i.dKN7LfTy8ZwUdL9WWo3zXPOde",
+  "estado": true,
+  "fullname": "Antonia Verónica Castro Muñoz",
+  "createdAT": {
+    "$date": "2025-02-27T15:14:53.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be460d"
+  },
+  "nombres": "Silvia Luisa",
+  "apellidos": "Pascual Ortega",
+  "email": "silviapascual74@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$FSaizlnj14ZSDPL3lDjeLOODNFqR/LGZrRrt.0pBqUrtxQrPKMbcm",
+  "estado": true,
+  "fullname": "Silvia Luisa Pascual Ortega",
+  "createdAT": {
+    "$date": "2025-02-22T04:47:04.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be460e"
+  },
+  "nombres": "Silvia",
+  "apellidos": "Reyes",
+  "email": "silvia_reyes@yahoo.com",
+  "email_validacion": false,
+  "password": "$2b$10$rcaqbTh8DZmZXsnqaa84z.1oYUecvAJ8q91/r4TpgJ9BbfRWaPC/G",
+  "estado": true,
+  "fullname": "Silvia Reyes",
+  "createdAT": {
+    "$date": "2024-10-25T21:27:12.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56e420d5c4819be460f"
+  },
+  "nombres": "Rafael",
+  "apellidos": "Duran",
+  "email": "rafael.duran@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$GAFJY7I4K2C/mvGp.tQ8.OtncaDvvV9XcjwISwxxxMPsASBqXK0tK",
+  "estado": true,
+  "fullname": "Rafael Duran",
+  "createdAT": {
+    "$date": "2025-01-11T14:35:33.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4610"
+  },
+  "nombres": "Javier Ernesto",
+  "apellidos": "Álvarez Hidalgo",
+  "email": "javierálvarez86@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$JZJK2qnrOIXULI7a3iOk7Od.4qqlTgNIP8kc6GsXJTRrVuOH8f9Na",
+  "estado": true,
+  "fullname": "Javier Ernesto Álvarez Hidalgo",
+  "createdAT": {
+    "$date": "2024-12-02T21:03:11.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4611"
+  },
+  "nombres": "Victoria",
+  "apellidos": "Esteban",
+  "email": "victoriaesteban522@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$HSnarfCOR2TovyRWq/5ih.DdyiT8Roa2Dd71isbJ/1sdy1wHmS/lm",
+  "estado": true,
+  "fullname": "Victoria Esteban",
+  "createdAT": {
+    "$date": "2024-11-23T08:57:45.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4612"
+  },
+  "nombres": "María",
+  "apellidos": "Nieto",
+  "email": "maría.nieto@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$fHQ4N/gBMXp8fBGm7it3ueaUyW9XCU2USzO8cX6fs47hobXOogE3K",
+  "estado": true,
+  "fullname": "María Nieto",
+  "createdAT": {
+    "$date": "2024-11-30T21:30:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4613"
+  },
+  "nombres": "Antonio Enrique",
+  "apellidos": "Vega",
+  "email": "antoniovega94@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$Wt68X7cY1UQ/dT4cythpEuEqRSQ9yciuQK42IYxolU/kS8ptD2sBK",
+  "estado": true,
+  "fullname": "Antonio Enrique Vega",
+  "createdAT": {
+    "$date": "2025-01-08T16:27:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4614"
+  },
+  "nombres": "Ricardo Gonzalo",
+  "apellidos": "Lozano",
+  "email": "lozanor@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$VjF3QCDHGcjD0/f0RtWcmOwF6A0e7.fZangqUXUAEQPECvhQNqFre",
+  "estado": true,
+  "fullname": "Ricardo Gonzalo Lozano",
+  "createdAT": {
+    "$date": "2024-11-02T07:10:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4615"
+  },
+  "nombres": "Cecilia Isabel",
+  "apellidos": "Núñez Caballero",
+  "email": "núñezc@zoho.com",
+  "email_validacion": false,
+  "password": "$2b$10$ezV1jttiqXJ51utzpOx5duG/8xla52So7zbPkmcxX2K33KSyY7WPC",
+  "estado": true,
+  "fullname": "Cecilia Isabel Núñez Caballero",
+  "createdAT": {
+    "$date": "2025-02-19T10:38:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4616"
+  },
+  "nombres": "Alberto Fernando",
+  "apellidos": "Domínguez",
+  "email": "alberto.domínguez@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$pSEBgmanOaG75qJAZNRn7.CXRW4LN1gBMQbM4zkiIS9MDE78A48sK",
+  "estado": true,
+  "fullname": "Alberto Fernando Domínguez",
+  "createdAT": {
+    "$date": "2024-12-14T02:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4617"
+  },
+  "nombres": "Raúl",
+  "apellidos": "Ruiz",
+  "email": "ruizr@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$xzMY.qiPhqdg1GMYkZY8Ueas5miwTUZcU3o2OM80Kv3KC5kKA22xq",
+  "estado": true,
+  "fullname": "Raúl Ruiz",
+  "createdAT": {
+    "$date": "2025-02-08T21:15:31.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4618"
+  },
+  "nombres": "Carmen",
+  "apellidos": "Núñez",
+  "email": "carmen164@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$IGdCOVcJ/O.jHbuyQB778ubZMTxSbE/KlVm7eSESxd7DWG.Tu5Mua",
+  "estado": true,
+  "fullname": "Carmen Núñez",
+  "createdAT": {
+    "$date": "2025-03-04T22:41:54.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be4619"
+  },
+  "nombres": "Rosa Carolina",
+  "apellidos": "Cortés Rodríguez",
+  "email": "rcortés@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$Tw5HutIGtZLlMwKOkt5iiuQpTcJqejvTQXc0JxrGQIXUb4ex53OZK",
+  "estado": true,
+  "fullname": "Rosa Carolina Cortés Rodríguez",
+  "createdAT": {
+    "$date": "2024-11-24T08:55:45.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be461a"
+  },
+  "nombres": "Luisa",
+  "apellidos": "Jiménez Peña",
+  "email": "luisajiménez71@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$H8wLMns97jRcjeYfVlAvZuah6lxCzXeZguzUAzah6CN1dVIbSlO8m",
+  "estado": true,
+  "fullname": "Luisa Jiménez Peña",
+  "createdAT": {
+    "$date": "2025-03-20T17:57:32.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be461b"
+  },
+  "nombres": "Camila",
+  "apellidos": "Ortiz Román",
+  "email": "camila_ortiz@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$5fxuNx/2uvIFcNAo9XXVs.Zh31L1SHQ7ymqmL7EojaoX2N9s2DEiy",
+  "estado": false,
+  "fullname": "Camila Ortiz Román",
+  "createdAT": {
+    "$date": "2025-01-23T08:54:04.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be461c"
+  },
+  "nombres": "Pedro",
+  "apellidos": "Márquez",
+  "email": "pedro_márquez@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$30i2DdN3eds3SFrDmOr5FOy8oDOOIYoTs/cPWlOGg/Uyd0jXx//FC",
+  "estado": true,
+  "fullname": "Pedro Márquez",
+  "createdAT": {
+    "$date": "2024-12-31T10:51:35.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be461d"
+  },
+  "nombres": "Lourdes",
+  "apellidos": "Domínguez Soto",
+  "email": "domínguez.lourdes@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$EVa.sGSvnC142JxStItvx.2wIdsBqXtzjrVjwS.Sc9ZrSQgtsd3eC",
+  "estado": true,
+  "fullname": "Lourdes Domínguez Soto",
+  "createdAT": {
+    "$date": "2024-10-30T12:43:08.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be461e"
+  },
+  "nombres": "Gonzalo Martín",
+  "apellidos": "Lorenzo Castillo",
+  "email": "lorenzo.gonzalo@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$pYe3p5OUE4KgyZM7XmKxBexi8EVLpYORcykudzcljdnPRW7otPPY2",
+  "estado": true,
+  "fullname": "Gonzalo Martín Lorenzo Castillo",
+  "createdAT": {
+    "$date": "2025-01-25T22:30:05.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d56f420d5c4819be461f"
+  },
+  "nombres": "Catalina",
+  "apellidos": "Jiménez",
+  "email": "jiménez.catalina@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$z4xrEkvfyTooFRKsLLVQPOde2F6LW7hy2c94nrs2AKzMmd552VMRS",
+  "estado": true,
+  "fullname": "Catalina Jiménez",
+  "createdAT": {
+    "$date": "2025-01-22T06:07:41.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4620"
+  },
+  "nombres": "Cecilia Luisa",
+  "apellidos": "Blanco Lorenzo",
+  "email": "cecilia995@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$Jv3GKfn7tYjeuH2UlhbIleDSOopeQSseatIgfuDyQnb9iEPzT2oLi",
+  "estado": true,
+  "fullname": "Cecilia Luisa Blanco Lorenzo",
+  "createdAT": {
+    "$date": "2024-11-19T04:44:45.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4621"
+  },
+  "nombres": "Carolina",
+  "apellidos": "Crespo López",
+  "email": "carolinacrespo75@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$g3QHzpKrcxNHiRHUfKyZc.plm1vqibC/p0Ag1KMOYE70MW4WEHNAu",
+  "estado": true,
+  "fullname": "Carolina Crespo López",
+  "createdAT": {
+    "$date": "2025-03-08T08:24:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4622"
+  },
+  "nombres": "Catalina",
+  "apellidos": "Díaz",
+  "email": "díazc@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$sKSH6nQ/9LNvIdyO8PubVOWwS/RarvAwpQumv5nU.e74judw4FW2a",
+  "estado": true,
+  "fullname": "Catalina Díaz",
+  "createdAT": {
+    "$date": "2024-12-27T04:37:54.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4623"
+  },
+  "nombres": "José",
+  "apellidos": "Vázquez Giménez",
+  "email": "vázquezj@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$5x0yxzplPfy6..lxE0wjuufjp0mJfh6TTJsBlmwMTxrr.8ELhWusu",
+  "estado": false,
+  "fullname": "José Vázquez Giménez",
+  "createdAT": {
+    "$date": "2024-11-21T02:46:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4624"
+  },
+  "nombres": "Natalia",
+  "apellidos": "Iglesias",
+  "email": "natalia998@mail.com",
+  "email_validacion": false,
+  "password": "$2b$10$O8MHERVwgOR0x2M37HW1XOAd3P9Hm4UaBzZm/5djzNRNMpFvJD3Se",
+  "estado": true,
+  "fullname": "Natalia Iglesias",
+  "createdAT": {
+    "$date": "2024-11-22T17:19:43.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4625"
+  },
+  "nombres": "Mario Francisco",
+  "apellidos": "Iglesias Alonso",
+  "email": "iglesias.mario@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$c.qdnGazyyHC.5R/Na8FtOLi5rjUud582izHHwLgCwlcVcEYOVaC.",
+  "estado": true,
+  "fullname": "Mario Francisco Iglesias Alonso",
+  "createdAT": {
+    "$date": "2025-03-16T18:20:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4626"
+  },
+  "nombres": "Gonzalo",
+  "apellidos": "Hidalgo Giménez",
+  "email": "gonzalo122@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$hi2jHVgLtbsPwTki42c6iOn60HhaUBMLvvDF9oZXWfRVv/dHHk8L2",
+  "estado": true,
+  "fullname": "Gonzalo Hidalgo Giménez",
+  "createdAT": {
+    "$date": "2025-02-10T21:23:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4627"
+  },
+  "nombres": "Teresa",
+  "apellidos": "Fuentes",
+  "email": "teresa.fuentes@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$bZJQ6MYYkGIXxEtd9sq4kuxC1XqCloh61/cDmDhrLHuLXEWajzYOS",
+  "estado": true,
+  "fullname": "Teresa Fuentes",
+  "createdAT": {
+    "$date": "2024-12-02T01:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4628"
+  },
+  "nombres": "Marcos",
+  "apellidos": "Iglesias",
+  "email": "marcos_iglesias@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$aImHYvxkHvbmkRd5m8hXrOGsEL2IVA1rXS18DiMMrRzVKrTrYkgFy",
+  "estado": true,
+  "fullname": "Marcos Iglesias",
+  "createdAT": {
+    "$date": "2024-11-16T14:02:03.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be4629"
+  },
+  "nombres": "Catalina Fernanda",
+  "apellidos": "Montero Castillo",
+  "email": "monteroc@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$IKBeo.8qfFWReMyScdMBWOCuLzkb6CzMBg9kS7uD3be97KOy7skOy",
+  "estado": true,
+  "fullname": "Catalina Fernanda Montero Castillo",
+  "createdAT": {
+    "$date": "2024-12-11T16:00:54.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be462a"
+  },
+  "nombres": "Cristina",
+  "apellidos": "Cruz Díaz",
+  "email": "cruzc@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$BKbZOYdwgbHY0LVzrcXkBeUGR6sh8eK9hbcv6T8C4O0bi7hgioxpi",
+  "estado": true,
+  "fullname": "Cristina Cruz Díaz",
+  "createdAT": {
+    "$date": "2025-01-07T21:01:13.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be462b"
+  },
+  "nombres": "Valeria Cristina",
+  "apellidos": "Campos Castro",
+  "email": "camposv@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$Ov51tHNff/qhtYTFPw8k9O4f.3EgLD2hfHy8drt.80Per.VoUuq1O",
+  "estado": true,
+  "fullname": "Valeria Cristina Campos Castro",
+  "createdAT": {
+    "$date": "2025-03-22T17:05:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be462c"
+  },
+  "nombres": "Marcos",
+  "apellidos": "Garrido Blanco",
+  "email": "marcosgarrido940@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$OqHhF4zZFzTZZURpUr0y.eKEm6Z/molh9vxKs.BaEfsnBBlG3BRD2",
+  "estado": true,
+  "fullname": "Marcos Garrido Blanco",
+  "createdAT": {
+    "$date": "2024-11-17T01:58:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be462d"
+  },
+  "nombres": "Diana Sofía",
+  "apellidos": "Pérez Campos",
+  "email": "diana_pérez@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$ZIAH5vgxxM3scyGvYF1f9OSeMYd04lakrdH9hGgZJbPJBKFFYQYom",
+  "estado": true,
+  "fullname": "Diana Sofía Pérez Campos",
+  "createdAT": {
+    "$date": "2025-01-22T12:48:54.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be462e"
+  },
+  "nombres": "Carlos",
+  "apellidos": "Hidalgo",
+  "email": "carloshidalgo462@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$QUsIH535qwvjMnoxaW6czufO6xvJbkTZrYjVa3FOPnKIwHfJkXkfG",
+  "estado": true,
+  "fullname": "Carlos Hidalgo",
+  "createdAT": {
+    "$date": "2025-04-06T04:48:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d570420d5c4819be462f"
+  },
+  "nombres": "Ernesto",
+  "apellidos": "Guerrero",
+  "email": "guerrero.ernesto@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$rd3w5.pR40bdf0wJ5dpf/OUMa1YNGBsln9/CcHukwB92eiKj.Oyui",
+  "estado": true,
+  "fullname": "Ernesto Guerrero",
+  "createdAT": {
+    "$date": "2024-12-22T02:59:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4630"
+  },
+  "nombres": "Arturo",
+  "apellidos": "Carmona Castillo",
+  "email": "arturo.carmona@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$JKn13ry3JCUUiCq0Bj5yAexj6yNhDrnN.K0nqj/QiPndFROREUxMy",
+  "estado": true,
+  "fullname": "Arturo Carmona Castillo",
+  "createdAT": {
+    "$date": "2024-12-03T23:09:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4631"
+  },
+  "nombres": "Rosa",
+  "apellidos": "Jiménez Navarro",
+  "email": "rosa_jiménez@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$UjX4q4SMKgpmG03qZodEF.vv2R/eB/xCVlNZwQ60jDoC3vH1l6YC2",
+  "estado": true,
+  "fullname": "Rosa Jiménez Navarro",
+  "createdAT": {
+    "$date": "2025-02-28T19:59:45.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4632"
+  },
+  "nombres": "Francisco Marcos",
+  "apellidos": "Hidalgo",
+  "email": "franciscohidalgo33@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$ZLTyaRDoN1EqyjOGn7KbTe9UG3QPmE2uPKXD8r9PzUfOaLCd0z3xy",
+  "estado": true,
+  "fullname": "Francisco Marcos Hidalgo",
+  "createdAT": {
+    "$date": "2025-01-27T00:37:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4633"
+  },
+  "nombres": "Gabriel Raúl",
+  "apellidos": "Campos Cabrera",
+  "email": "gabriel.campos@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$wxtO7L/J/2M5NuDgCPz4pe30N7PkChhiPAQN22cfwiZeSOXgRWqqK",
+  "estado": true,
+  "fullname": "Gabriel Raúl Campos Cabrera",
+  "createdAT": {
+    "$date": "2024-11-08T01:21:53.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4634"
+  },
+  "nombres": "Guadalupe",
+  "apellidos": "Guerrero",
+  "email": "guerrerog@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$QVFDEtduJ5aQVr/xCy328O8KfnALFTMFmINkijovY4EwRkfxjxJdG",
+  "estado": true,
+  "fullname": "Guadalupe Guerrero",
+  "createdAT": {
+    "$date": "2025-01-09T23:36:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4635"
+  },
+  "nombres": "Mónica",
+  "apellidos": "Ramírez Moya",
+  "email": "mónica_ramírez@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$dYHxeGjPnd9t2zj9BfrwF.dZ7JhC80/TWbETODPHzOi1klNep9J..",
+  "estado": true,
+  "fullname": "Mónica Ramírez Moya",
+  "createdAT": {
+    "$date": "2025-03-03T16:13:41.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4636"
+  },
+  "nombres": "Martha Juana",
+  "apellidos": "Herrera",
+  "email": "marthaherrera77@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$on1fjFmVmTd7w70NaB/vzuiRvFOzK6tPdNqhKMd9DQka4KSj6jAoG",
+  "estado": true,
+  "fullname": "Martha Juana Herrera",
+  "createdAT": {
+    "$date": "2024-12-26T22:49:29.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4637"
+  },
+  "nombres": "Luis Pedro",
+  "apellidos": "Martín",
+  "email": "martínl@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$kFwUCgDD52AwKHYPkOLhtedWgna7tDNRnEYN6w96gw0lqvtfqfb7y",
+  "estado": true,
+  "fullname": "Luis Pedro Martín",
+  "createdAT": {
+    "$date": "2024-12-07T13:21:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4638"
+  },
+  "nombres": "Carlos",
+  "apellidos": "Sánchez",
+  "email": "csánchez@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$5iULw0H4f8yKmDV1qrIpdOYj89u48il0Dx9CokOYr3G2i4LkjcV/6",
+  "estado": true,
+  "fullname": "Carlos Sánchez",
+  "createdAT": {
+    "$date": "2025-04-11T15:58:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4639"
+  },
+  "nombres": "Verónica",
+  "apellidos": "Giménez González",
+  "email": "verónica834@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$mYw/LqULrWzSFxfiiH0YouTmKDZv9L7zuhqlpPE1mePGQZGzF.RM.",
+  "estado": true,
+  "fullname": "Verónica Giménez González",
+  "createdAT": {
+    "$date": "2024-12-09T13:26:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be463a"
+  },
+  "nombres": "Luisa Mónica",
+  "apellidos": "Prieto Fuentes",
+  "email": "prieto.luisa@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$VW6MghigkrehyO.1KMWIF.AYAViNYYSzWtfDerEx.slKh8m.MLa9y",
+  "estado": true,
+  "fullname": "Luisa Mónica Prieto Fuentes",
+  "createdAT": {
+    "$date": "2025-03-11T22:03:47.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be463b"
+  },
+  "nombres": "Diana Martha",
+  "apellidos": "Fernández",
+  "email": "dianafernández634@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$ndOXIQvdKyKNF/7M/Rr28epTtSofZBNVg/c1LrBJ9wjXmdd4qwiwq",
+  "estado": true,
+  "fullname": "Diana Martha Fernández",
+  "createdAT": {
+    "$date": "2025-03-29T10:16:13.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be463c"
+  },
+  "nombres": "Elena",
+  "apellidos": "Peña Caballero",
+  "email": "epeña@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$3OwGuXn97PIpzpQwPdf3PeGiX1MtYUo.q5/4P6WPp/mXTnr2WVxKK",
+  "estado": true,
+  "fullname": "Elena Peña Caballero",
+  "createdAT": {
+    "$date": "2025-01-09T06:28:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be463d"
+  },
+  "nombres": "José",
+  "apellidos": "Ramírez Ruiz",
+  "email": "josé.ramírez@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$HlEJuWwuuAjAQlPmFtsFDeCX9iSpQwsU7iLbNqRdmYz6HuzGAoMXC",
+  "estado": true,
+  "fullname": "José Ramírez Ruiz",
+  "createdAT": {
+    "$date": "2025-01-21T16:30:37.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be463e"
+  },
+  "nombres": "Adriana Guadalupe",
+  "apellidos": "León",
+  "email": "adriana270@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$BqVtC46KdL7wk5/2iqEpd.G5KUcaOcUVjgZzEv.xVFRDO3C9SV.IC",
+  "estado": true,
+  "fullname": "Adriana Guadalupe León",
+  "createdAT": {
+    "$date": "2025-03-14T10:19:53.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be463f"
+  },
+  "nombres": "Pedro",
+  "apellidos": "Prieto",
+  "email": "prieto.pedro@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$tSmZmI2i46GBE2oqCAt71O3seQevqosYUMV7HmhPatGSCYXUgCuOO",
+  "estado": true,
+  "fullname": "Pedro Prieto",
+  "createdAT": {
+    "$date": "2025-03-21T01:02:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d571420d5c4819be4640"
+  },
+  "nombres": "María Daniela",
+  "apellidos": "Castro",
+  "email": "maría.castro@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$oRrcG9WwujR31S1AGFl11OOKfgbSr0StbExVoOi97jZTtW6cpIBPa",
+  "estado": true,
+  "fullname": "María Daniela Castro",
+  "createdAT": {
+    "$date": "2024-12-16T16:14:24.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4641"
+  },
+  "nombres": "Carlos Jorge",
+  "apellidos": "Prieto",
+  "email": "prieto.carlos@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$FSBEAgvLE6hBeeBYgch8xOF6taI1uMFBNfgZPfE4osboK4/xWMZ7i",
+  "estado": true,
+  "fullname": "Carlos Jorge Prieto",
+  "createdAT": {
+    "$date": "2025-03-23T10:00:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4642"
+  },
+  "nombres": "Cecilia",
+  "apellidos": "Hernández",
+  "email": "hernándezc@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$RR.95RwPDpympFyeIL0siO1NK/PVwXnaYFmb/TYEBfO4JP1/FVKSi",
+  "estado": true,
+  "fullname": "Cecilia Hernández",
+  "createdAT": {
+    "$date": "2024-12-23T19:59:19.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4643"
+  },
+  "nombres": "Luisa",
+  "apellidos": "Carrasco Garrido",
+  "email": "luisa_carrasco@live.com",
+  "email_validacion": false,
+  "password": "$2b$10$sJVxC/fOZgXlnT3VQyMCLu7F3Jqat7jDadOtlbu6wZ1uxzyU16LLm",
+  "estado": true,
+  "fullname": "Luisa Carrasco Garrido",
+  "createdAT": {
+    "$date": "2025-01-30T04:16:51.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4644"
+  },
+  "nombres": "Miguel Hugo",
+  "apellidos": "Díez Ortiz",
+  "email": "migueldíez509@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$ztKfjngNNcKKVxQ6iQyD6O92UDhRSnWWyZpniLo2OlZrtsn4AazeS",
+  "estado": true,
+  "fullname": "Miguel Hugo Díez Ortiz",
+  "createdAT": {
+    "$date": "2025-01-16T07:09:48.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4645"
+  },
+  "nombres": "Silvia Beatriz",
+  "apellidos": "Velasco",
+  "email": "silviavelasco357@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$e3mvLmf0/taqFybFpUsboO88iMqFJfWcPcLXivfLIKwEI8jc7VkX6",
+  "estado": true,
+  "fullname": "Silvia Beatriz Velasco",
+  "createdAT": {
+    "$date": "2024-11-03T05:04:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4646"
+  },
+  "nombres": "Ernesto",
+  "apellidos": "León Nieto",
+  "email": "ernesto_león@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$auqhkI5QIjkW7aP8.Wl18uggU3nWmpUmL2W.tYWZkj8XKOdizeVxO",
+  "estado": true,
+  "fullname": "Ernesto León Nieto",
+  "createdAT": {
+    "$date": "2025-04-16T04:14:04.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4647"
+  },
+  "nombres": "Raúl",
+  "apellidos": "Ibáñez Sanz",
+  "email": "raúl_ibáñez@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$e3m9WNU4wyHwK/HKqtuuNOufXeI7CnrvYNkUHI0wOhXLAJipOTYg.",
+  "estado": true,
+  "fullname": "Raúl Ibáñez Sanz",
+  "createdAT": {
+    "$date": "2024-12-06T09:19:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4648"
+  },
+  "nombres": "Julio",
+  "apellidos": "Cruz",
+  "email": "juliocruz824@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$sUS5G4PWTEevOIVNXP2ykuIUGQ7lyEKcx8LIY1FjQl4FW1uaIuGBW",
+  "estado": true,
+  "fullname": "Julio Cruz",
+  "createdAT": {
+    "$date": "2025-03-09T04:31:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4649"
+  },
+  "nombres": "Arturo",
+  "apellidos": "Ortiz Bravo",
+  "email": "arturo.ortiz@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$9nZIQKeUtbCG4BlGs4tz6O8qzGHcVATptrsQjLRM/YGY8JDheb6Qq",
+  "estado": true,
+  "fullname": "Arturo Ortiz Bravo",
+  "createdAT": {
+    "$date": "2025-04-13T05:23:11.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be464a"
+  },
+  "nombres": "Claudia",
+  "apellidos": "Pérez Vargas",
+  "email": "pérezc@mail.com",
+  "email_validacion": false,
+  "password": "$2b$10$wTILPrdk.VUy07GHkHRaxOIhl4RR1CMh1PmRHQ8TzOw0RMEClGSoG",
+  "estado": true,
+  "fullname": "Claudia Pérez Vargas",
+  "createdAT": {
+    "$date": "2024-10-28T12:05:15.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be464b"
+  },
+  "nombres": "Mariana",
+  "apellidos": "Ruiz Peña",
+  "email": "mariana.ruiz@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$ncTg5sarSDbvEJR5AvO8b.psVRMZKWB181NzoCAM4EMvqp2CRyZxC",
+  "estado": true,
+  "fullname": "Mariana Ruiz Peña",
+  "createdAT": {
+    "$date": "2025-03-04T07:44:23.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be464c"
+  },
+  "nombres": "Carmen Alejandra",
+  "apellidos": "Díez Calvo",
+  "email": "carmendíez97@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$i0OR1oKfPX7wHs0CSOSz3ujkRFuOXqEsf8Y8uhSJU4M/rLU9swJkO",
+  "estado": false,
+  "fullname": "Carmen Alejandra Díez Calvo",
+  "createdAT": {
+    "$date": "2025-03-07T01:02:13.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be464d"
+  },
+  "nombres": "Enrique Alberto",
+  "apellidos": "Muñoz Castillo",
+  "email": "enrique75@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$zaGCn6tC/dONUvT2abs5z.fvUzxkQgvNPoz9Wc2peXQy1sDTcZShy",
+  "estado": true,
+  "fullname": "Enrique Alberto Muñoz Castillo",
+  "createdAT": {
+    "$date": "2024-12-25T01:24:14.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be464e"
+  },
+  "nombres": "Carolina Martha",
+  "apellidos": "Medina Gallardo",
+  "email": "carolinamedina76@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$IwO539LafHjQCr2VD5F0H.vYQahZNhrcSWMrEgoj9G2SwK87pKPmG",
+  "estado": true,
+  "fullname": "Carolina Martha Medina Gallardo",
+  "createdAT": {
+    "$date": "2024-12-19T05:13:54.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be464f"
+  },
+  "nombres": "Fernando Daniel",
+  "apellidos": "Méndez",
+  "email": "fernandoméndez767@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$9HnEgL4aoUut1vpC94nnXO058tawxV2RKX7WBUzHpLF.H2EnroCLC",
+  "estado": true,
+  "fullname": "Fernando Daniel Méndez",
+  "createdAT": {
+    "$date": "2025-01-13T23:43:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4650"
+  },
+  "nombres": "Verónica Ana",
+  "apellidos": "Morales Soler",
+  "email": "moralesv@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$D2Jwuw1D9t6AFvhzXGqjwu/3pro/u4VQ1A7XxNxZyUYsRo9nZ88y.",
+  "estado": true,
+  "fullname": "Verónica Ana Morales Soler",
+  "createdAT": {
+    "$date": "2024-12-11T11:23:13.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d572420d5c4819be4651"
+  },
+  "nombres": "Ana",
+  "apellidos": "Ramos",
+  "email": "ana.ramos@protonmail.com",
+  "email_validacion": false,
+  "password": "$2b$10$K9zrNZio8V6UVj7Buft/EuK2RlJHiIGZ79z2AlJUkZ.5T14V15m.W",
+  "estado": true,
+  "fullname": "Ana Ramos",
+  "createdAT": {
+    "$date": "2025-02-07T08:38:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4652"
+  },
+  "nombres": "Manuel",
+  "apellidos": "Gil",
+  "email": "manuel_gil@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$ahGvh/t9gQ2yAeptsNZITuetckW1l9XbMIS9oUvss2SI6PENMMiYu",
+  "estado": true,
+  "fullname": "Manuel Gil",
+  "createdAT": {
+    "$date": "2025-04-06T06:30:30.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4653"
+  },
+  "nombres": "Victoria Verónica",
+  "apellidos": "Vega Castro",
+  "email": "victoriavega684@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$uZNJZVs8FgCFV/vX.XDPruwCvDIjrSC36KQe8yKvSvzpaoQG1stWi",
+  "estado": true,
+  "fullname": "Victoria Verónica Vega Castro",
+  "createdAT": {
+    "$date": "2024-12-10T09:36:15.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4654"
+  },
+  "nombres": "Enrique",
+  "apellidos": "Díaz",
+  "email": "enrique.díaz@protonmail.com",
+  "email_validacion": false,
+  "password": "$2b$10$t.syhuGaF4s/FarAgkjizejfF3B1rU05xpAZNaKWs1UCtyIYEQgUO",
+  "estado": true,
+  "fullname": "Enrique Díaz",
+  "createdAT": {
+    "$date": "2024-12-25T22:43:32.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4655"
+  },
+  "nombres": "Marcos",
+  "apellidos": "Díez",
+  "email": "díez.marcos@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$Wa2P4FR7PyyAfArXP//j8.IAXc4DtpOC2JnWxk8yei6Xfohx6.aRG",
+  "estado": true,
+  "fullname": "Marcos Díez",
+  "createdAT": {
+    "$date": "2025-03-19T10:23:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4656"
+  },
+  "nombres": "Julio",
+  "apellidos": "Parra",
+  "email": "parra.julio@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$4XOYuoq0OtdHP1e5eJDA1uHizRmMf1IZmBuSkP8xF2oxnNegT6sAC",
+  "estado": true,
+  "fullname": "Julio Parra",
+  "createdAT": {
+    "$date": "2025-01-06T13:38:25.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4657"
+  },
+  "nombres": "Carlos Arturo",
+  "apellidos": "Caballero",
+  "email": "carlos117@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$lpXzXHeRyDuRtqX3JleZHuSwaHfcGCWWWC.5Htfumkd4c4HFCI//O",
+  "estado": true,
+  "fullname": "Carlos Arturo Caballero",
+  "createdAT": {
+    "$date": "2025-02-05T01:44:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4658"
+  },
+  "nombres": "Alejandra Fernanda",
+  "apellidos": "González Fernández",
+  "email": "alejandra_gonzález@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$nPgA2eKdse1lB5lqZTK4e.n0VkMppPxnZl9D6MpiIniCTIOwwbFUW",
+  "estado": false,
+  "fullname": "Alejandra Fernanda González Fernández",
+  "createdAT": {
+    "$date": "2025-02-03T14:24:08.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4659"
+  },
+  "nombres": "Pablo Ricardo",
+  "apellidos": "Ortega Velasco",
+  "email": "pablo.ortega@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$ZaTNUcli/QkTejDlPc.6EuABbs.inXtnZdpKy16MXhlSRu4DOT5HO",
+  "estado": true,
+  "fullname": "Pablo Ricardo Ortega Velasco",
+  "createdAT": {
+    "$date": "2025-03-24T08:14:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be465a"
+  },
+  "nombres": "Víctor",
+  "apellidos": "Velasco",
+  "email": "víctor_velasco@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$iIlAGuUwf.LlZsWlORW2BO.R9tP8nOuUxzocQvdH.n.NI5bGuy4Ia",
+  "estado": true,
+  "fullname": "Víctor Velasco",
+  "createdAT": {
+    "$date": "2024-12-05T07:34:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be465b"
+  },
+  "nombres": "José Francisco",
+  "apellidos": "Díaz",
+  "email": "jdíaz@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$ARHB6.2GG.MhZ1APm9e4jehkO.O2RNBx9lTe0Re9ylNvwrF1MrbMS",
+  "estado": true,
+  "fullname": "José Francisco Díaz",
+  "createdAT": {
+    "$date": "2025-02-20T00:16:39.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be465c"
+  },
+  "nombres": "Eduardo",
+  "apellidos": "Montero Parra",
+  "email": "eduardomontero349@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$jwKLrpTDvTROeYwvfx/3BuBqZsyD5/qboSKTJM2WP.XZDCGFxMFqK",
+  "estado": true,
+  "fullname": "Eduardo Montero Parra",
+  "createdAT": {
+    "$date": "2025-03-18T16:05:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be465d"
+  },
+  "nombres": "Luis Jorge",
+  "apellidos": "Rojas Ortiz",
+  "email": "luisrojas72@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$RfUwiXJxXIHDy6azZyZuauwkSo/DQvMVakdBQ33Dt1rXCpzfMaGv2",
+  "estado": true,
+  "fullname": "Luis Jorge Rojas Ortiz",
+  "createdAT": {
+    "$date": "2024-12-25T03:58:10.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be465e"
+  },
+  "nombres": "Ricardo Sergio",
+  "apellidos": "Torres",
+  "email": "rtorres@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$hESxCej4bBxAsr1GV2iOZOkh3FRmK7RXJQHdXbpLgxRH/kiJBluIa",
+  "estado": true,
+  "fullname": "Ricardo Sergio Torres",
+  "createdAT": {
+    "$date": "2025-01-08T23:39:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be465f"
+  },
+  "nombres": "Jorge",
+  "apellidos": "Serrano Méndez",
+  "email": "jorgeserrano95@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$mXyDRZW0BjVEWUbaLeEseOYd4xaYUWso2FjnhzY2tTD.cLOgDx2fq",
+  "estado": true,
+  "fullname": "Jorge Serrano Méndez",
+  "createdAT": {
+    "$date": "2025-04-10T22:50:23.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4660"
+  },
+  "nombres": "Juan Martín",
+  "apellidos": "Gómez",
+  "email": "juan_gómez@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$0Fjz0zrHt4NamoM9Gmjbj.INvTqNGXgHDMC38ZBQ.dPuwRO6n1M6a",
+  "estado": false,
+  "fullname": "Juan Martín Gómez",
+  "createdAT": {
+    "$date": "2025-01-03T03:36:38.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d573420d5c4819be4661"
+  },
+  "nombres": "Diego Antonio",
+  "apellidos": "Pascual Soler",
+  "email": "diegopascual72@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$qD19DKYqxa/6wix1yyUcG.xGzUqxRQNjlKJ8QIKc0n/FytmfSjuni",
+  "estado": true,
+  "fullname": "Diego Antonio Pascual Soler",
+  "createdAT": {
+    "$date": "2025-03-03T01:14:58.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4662"
+  },
+  "nombres": "Martín",
+  "apellidos": "Mora Gallardo",
+  "email": "mora.martín@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$s2.Y9Apg3Num9d4RYqONWOcmDBFITeCBk9a/RIbYoTnHE3H6JknFa",
+  "estado": true,
+  "fullname": "Martín Mora Gallardo",
+  "createdAT": {
+    "$date": "2024-11-14T02:16:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4663"
+  },
+  "nombres": "Mario",
+  "apellidos": "Calvo",
+  "email": "calvo.mario@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$piSlnN34epG27njb4TKNKu6SGPICboihvQTVriaa9.cBwF6JYKKcm",
+  "estado": true,
+  "fullname": "Mario Calvo",
+  "createdAT": {
+    "$date": "2024-11-21T21:46:35.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4664"
+  },
+  "nombres": "Fernando",
+  "apellidos": "Santiago",
+  "email": "fernando.santiago@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$c0PvuGLHAnRObeFH9JokGeZPHoNgl/D1lrt6PhmP.0.SrbXrTBaAO",
+  "estado": true,
+  "fullname": "Fernando Santiago",
+  "createdAT": {
+    "$date": "2025-03-24T11:28:38.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4665"
+  },
+  "nombres": "Mariana",
+  "apellidos": "Castillo",
+  "email": "mcastillo@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$D3/OnARFgUPLVb4bUhi0ROkxrk1KdxjLlaoGnOOqJHw.E121RZB7y",
+  "estado": false,
+  "fullname": "Mariana Castillo",
+  "createdAT": {
+    "$date": "2024-11-20T19:13:20.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4666"
+  },
+  "nombres": "Hugo",
+  "apellidos": "García",
+  "email": "hugo896@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$s6NuWCdUxn5J9o7BYjddZe3za5m5m6mnNazMftj2543yW/NwS37Mm",
+  "estado": true,
+  "fullname": "Hugo García",
+  "createdAT": {
+    "$date": "2025-01-02T20:39:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4667"
+  },
+  "nombres": "Camila",
+  "apellidos": "Parra",
+  "email": "parrac@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$/mmJPqnh1H.rR6tNSqb.fuKoK9pn56DNqO3mvNg5LFAoD.H82xUE.",
+  "estado": true,
+  "fullname": "Camila Parra",
+  "createdAT": {
+    "$date": "2025-03-02T15:49:56.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4668"
+  },
+  "nombres": "Francisco",
+  "apellidos": "Fernández Sánchez",
+  "email": "ffernández@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$XWySEthA/5x1sea4NVgv2.dDgfpQbBCPq09FSy.lqy35DeAigTGY2",
+  "estado": true,
+  "fullname": "Francisco Fernández Sánchez",
+  "createdAT": {
+    "$date": "2025-02-07T20:04:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4669"
+  },
+  "nombres": "Natalia Gabriela",
+  "apellidos": "Medina",
+  "email": "nataliamedina769@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$WJzFSnclUg66jBiIgfglm.6h4MUzJUr7hmWbsU6CZ9VuCqrjWEEyu",
+  "estado": true,
+  "fullname": "Natalia Gabriela Medina",
+  "createdAT": {
+    "$date": "2025-01-30T21:09:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be466a"
+  },
+  "nombres": "Daniela",
+  "apellidos": "Gallego Lorenzo",
+  "email": "danielagallego213@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$.vVkiTB4M4Uv7H7Wh.4OIO8Oihb433RNUibPq7.Ogiyjgw0KkBsF6",
+  "estado": true,
+  "fullname": "Daniela Gallego Lorenzo",
+  "createdAT": {
+    "$date": "2025-04-03T19:20:24.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be466b"
+  },
+  "nombres": "César Raúl",
+  "apellidos": "Delgado",
+  "email": "delgado.césar@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$Z6gpbR.5gCCWW7P5xkTki.tuBDhl6gA9vj5ZMetYNaoM32l0nvYEq",
+  "estado": true,
+  "fullname": "César Raúl Delgado",
+  "createdAT": {
+    "$date": "2025-01-27T03:21:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be466c"
+  },
+  "nombres": "Fernando Pablo",
+  "apellidos": "Moreno Sáez",
+  "email": "fernandomoreno142@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$tOqfQ8ZMFBsKo8/q2seVHu6m60hMXQ6ND36/JttQfDvkJH50Fm3za",
+  "estado": true,
+  "fullname": "Fernando Pablo Moreno Sáez",
+  "createdAT": {
+    "$date": "2024-12-12T08:28:58.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be466d"
+  },
+  "nombres": "Elena",
+  "apellidos": "Cano",
+  "email": "canoe@zoho.com",
+  "email_validacion": false,
+  "password": "$2b$10$TZdAtiJSn4izDXPrUw9Ksur7zX.nYXol1y2QmozPG.wksew4iVJ8.",
+  "estado": true,
+  "fullname": "Elena Cano",
+  "createdAT": {
+    "$date": "2025-01-25T23:46:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be466e"
+  },
+  "nombres": "Victoria",
+  "apellidos": "Santana",
+  "email": "victoriasantana558@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$ux15.tF6Z1h/682.u0zFU..rmCYhQfN9sYQBRL/y9cHMx1CFAOsG6",
+  "estado": true,
+  "fullname": "Victoria Santana",
+  "createdAT": {
+    "$date": "2025-01-21T08:04:56.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be466f"
+  },
+  "nombres": "Pablo Enrique",
+  "apellidos": "Román Gallardo",
+  "email": "pablo_román@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$9JtbPVZ6FMuBV1vtY8U9Xuyt6a/j4ZWVXDPcf6YjtPMcyzOPye.vC",
+  "estado": true,
+  "fullname": "Pablo Enrique Román Gallardo",
+  "createdAT": {
+    "$date": "2024-11-11T03:30:55.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4670"
+  },
+  "nombres": "Juan",
+  "apellidos": "Pérez",
+  "email": "pérez.juan@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$85RqIOCw89T4js4ZdbjuY.GV.6IYoCk8HTgfS2dsU3VZ56VriLPpS",
+  "estado": true,
+  "fullname": "Juan Pérez",
+  "createdAT": {
+    "$date": "2025-01-24T06:59:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4671"
+  },
+  "nombres": "Juana Julia",
+  "apellidos": "Álvarez Vega",
+  "email": "juana_álvarez@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$H5LHLHfe45Z1jYEmpupWn.q6yngBND4hzRzh7HzwGWrB/RZtvPTtm",
+  "estado": false,
+  "fullname": "Juana Julia Álvarez Vega",
+  "createdAT": {
+    "$date": "2025-01-10T14:00:35.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d574420d5c4819be4672"
+  },
+  "nombres": "Sofía",
+  "apellidos": "Muñoz Torres",
+  "email": "smuñoz@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$GDo4HgQGt9k.0O.Bvck/seU.P7XsftSiuVAnl72rIxLNJiQDSHCr.",
+  "estado": false,
+  "fullname": "Sofía Muñoz Torres",
+  "createdAT": {
+    "$date": "2025-01-28T19:14:29.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4673"
+  },
+  "nombres": "Luisa",
+  "apellidos": "Sánchez Díaz",
+  "email": "sánchez.luisa@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$BSVVsimpYH9bfxKvbUEmxOasIg91ZjVYx5DJ9oqrKbOR.OA6uQbgy",
+  "estado": true,
+  "fullname": "Luisa Sánchez Díaz",
+  "createdAT": {
+    "$date": "2025-02-18T08:40:37.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4674"
+  },
+  "nombres": "Laura Daniela",
+  "apellidos": "Moya",
+  "email": "lmoya@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$yFKRHWnY3z.l/tRwE/6IxeSuDrG8e5if6ciBg/xWGG.p3cNtCT/wS",
+  "estado": true,
+  "fullname": "Laura Daniela Moya",
+  "createdAT": {
+    "$date": "2025-02-10T09:39:37.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4675"
+  },
+  "nombres": "Ricardo",
+  "apellidos": "Carrasco",
+  "email": "ricardo16@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$LIY5X4h5B2bdTRGvW4v4IengmXIkylNbDXRn8yjxnnQgboStpwBxG",
+  "estado": false,
+  "fullname": "Ricardo Carrasco",
+  "createdAT": {
+    "$date": "2025-03-20T04:29:39.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4676"
+  },
+  "nombres": "Luisa",
+  "apellidos": "Reyes",
+  "email": "lreyes@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$xXM3Fr0H9pbAsbArnc3CRO3p0ybEXLH.ASe.E81Pp/1bg6wLQEzFy",
+  "estado": true,
+  "fullname": "Luisa Reyes",
+  "createdAT": {
+    "$date": "2024-11-22T05:20:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4677"
+  },
+  "nombres": "Armando Daniel",
+  "apellidos": "Sánchez Esteban",
+  "email": "sánchez.armando@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$Ff2jyy8AOFerbovKP5ZxYegcXxYBI1yVOZEi2odm0PFES1uT5IBLm",
+  "estado": true,
+  "fullname": "Armando Daniel Sánchez Esteban",
+  "createdAT": {
+    "$date": "2024-11-24T13:25:27.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4678"
+  },
+  "nombres": "Catalina Leticia",
+  "apellidos": "Moreno",
+  "email": "catalinamoreno653@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$/82PDRNwpzgzdso0Vrt8ZebdfVOl6f8GwRHeCt0kj9lDfSa8Bi7Sy",
+  "estado": true,
+  "fullname": "Catalina Leticia Moreno",
+  "createdAT": {
+    "$date": "2025-02-13T01:06:46.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4679"
+  },
+  "nombres": "Patricia",
+  "apellidos": "Esteban Soler",
+  "email": "pesteban@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$SVqfECiSbvEpK5zoCp8Zw.kjHj6PapODNXK0Kmel3iBNak.9/Dw9W",
+  "estado": true,
+  "fullname": "Patricia Esteban Soler",
+  "createdAT": {
+    "$date": "2024-11-24T07:15:05.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be467a"
+  },
+  "nombres": "Adriana Juana",
+  "apellidos": "Fuentes Herrero",
+  "email": "afuentes@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$y4lJtCSJrPHIO7pPHmfiiuyxNLB63S7Xy.tSMAzaJ3tp6ltBlscdG",
+  "estado": true,
+  "fullname": "Adriana Juana Fuentes Herrero",
+  "createdAT": {
+    "$date": "2025-03-25T06:54:30.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be467b"
+  },
+  "nombres": "Ricardo Eduardo",
+  "apellidos": "Blanco Torres",
+  "email": "ricardo_blanco@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$3tFgEp4qJMySsAxF57Dwi.eTabaiILbVbUqtuDAiyKfLKCcqjn36a",
+  "estado": true,
+  "fullname": "Ricardo Eduardo Blanco Torres",
+  "createdAT": {
+    "$date": "2024-12-29T11:03:18.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be467c"
+  },
+  "nombres": "Diego",
+  "apellidos": "Pascual",
+  "email": "diego155@zoho.com",
+  "email_validacion": false,
+  "password": "$2b$10$bVhXfJfg2LLAmgEyRZhf8OGIxpSRnZxP1Sv98v.ntMPe7Fpd0RfSW",
+  "estado": true,
+  "fullname": "Diego Pascual",
+  "createdAT": {
+    "$date": "2024-11-19T08:48:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be467d"
+  },
+  "nombres": "Carlos",
+  "apellidos": "Carmona",
+  "email": "carmona.carlos@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$yx8cxrLpds1TUPjZXpQYSeS7WFNPiyv7v5eSU8gW1w3TNbajd/9/e",
+  "estado": true,
+  "fullname": "Carlos Carmona",
+  "createdAT": {
+    "$date": "2024-10-27T05:17:27.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be467e"
+  },
+  "nombres": "Carlos Pablo",
+  "apellidos": "Campos Núñez",
+  "email": "carlos.campos@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$jex3SEoOBfNhdXSUPKlY0.wwEW6MW0Xft2i9LRGwZjHW93vgQvry.",
+  "estado": true,
+  "fullname": "Carlos Pablo Campos Núñez",
+  "createdAT": {
+    "$date": "2025-01-29T22:23:51.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be467f"
+  },
+  "nombres": "Armando",
+  "apellidos": "Lozano Sáez",
+  "email": "armando_lozano@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$khRAS8.YY7iSs5RY6ZzXTufn0KJyo9127WK.YOeHcZifj6Zcr0dHW",
+  "estado": true,
+  "fullname": "Armando Lozano Sáez",
+  "createdAT": {
+    "$date": "2025-03-29T00:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4680"
+  },
+  "nombres": "Laura",
+  "apellidos": "Álvarez",
+  "email": "álvarez.laura@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$pd.Ggm8aSGahOD1PdxTFDeglpxuU.7uCz0z91kr4VVGTCYOgFGIRi",
+  "estado": true,
+  "fullname": "Laura Álvarez",
+  "createdAT": {
+    "$date": "2024-12-04T17:44:47.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4681"
+  },
+  "nombres": "Lucía",
+  "apellidos": "García Carrasco",
+  "email": "lucíagarcía107@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$jesN9OUMM1GFY/XW2r0W1eQp8W1en06cLym0EmcsIJUj7Q3Vrredi",
+  "estado": true,
+  "fullname": "Lucía García Carrasco",
+  "createdAT": {
+    "$date": "2024-12-10T10:51:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4682"
+  },
+  "nombres": "Guadalupe Diana",
+  "apellidos": "Herrera Martín",
+  "email": "guadalupe_herrera@icloud.com",
+  "email_validacion": false,
+  "password": "$2b$10$DHXxDWKfdbT1TwKunRR.Su2OpymDi/yoOhGu0MKnlWqygmMwX8dQW",
+  "estado": true,
+  "fullname": "Guadalupe Diana Herrera Martín",
+  "createdAT": {
+    "$date": "2025-04-12T01:11:08.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d575420d5c4819be4683"
+  },
+  "nombres": "Eduardo",
+  "apellidos": "Moya Martín",
+  "email": "eduardo_moya@yahoo.com",
+  "email_validacion": false,
+  "password": "$2b$10$O/xRJS1IYbdBXjt8Y1MIM.uqGOyPJAbWbJeolVvV4cDBJb8Foab7S",
+  "estado": true,
+  "fullname": "Eduardo Moya Martín",
+  "createdAT": {
+    "$date": "2025-03-09T19:03:30.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4684"
+  },
+  "nombres": "David",
+  "apellidos": "Duran",
+  "email": "dduran@gmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$Eo18VsIFa8Z15CxaqrahH.foUuxaHVyHje7M591OSJG8OA8KDbtme",
+  "estado": true,
+  "fullname": "David Duran",
+  "createdAT": {
+    "$date": "2025-01-28T04:21:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4685"
+  },
+  "nombres": "Alicia",
+  "apellidos": "Pastor Rubio",
+  "email": "aliciapastor98@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$VpID68xWv238A.O/i3jNi.wYd3jGsFrkIrzNeRa3PKlKkcaJMvoYi",
+  "estado": true,
+  "fullname": "Alicia Pastor Rubio",
+  "createdAT": {
+    "$date": "2025-03-17T23:13:56.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4686"
+  },
+  "nombres": "Marcos",
+  "apellidos": "Román Rubio",
+  "email": "marcos_román@hotmail.com",
+  "email_validacion": false,
+  "password": "$2b$10$h7ATcDU2iY05N7Vkwag9KeWuQYB/jSoaUlCfDDVKFZj39tRSxRdti",
+  "estado": true,
+  "fullname": "Marcos Román Rubio",
+  "createdAT": {
+    "$date": "2025-03-09T05:24:19.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4687"
+  },
+  "nombres": "Gabriela",
+  "apellidos": "Cano Díaz",
+  "email": "cano.gabriela@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$17F9aWL3q5R14.XwVNNIz.syhTw9BrrOpicsWTOM9ikmuD0mUvqu2",
+  "estado": true,
+  "fullname": "Gabriela Cano Díaz",
+  "createdAT": {
+    "$date": "2025-01-16T10:30:08.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4688"
+  },
+  "nombres": "Oscar Enrique",
+  "apellidos": "Iglesias Flores",
+  "email": "iglesiaso@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$ME21Aokbj610PRJNcHbnv.MEG31fD/fS0l17MRvNNlysU9V.aOIre",
+  "estado": true,
+  "fullname": "Oscar Enrique Iglesias Flores",
+  "createdAT": {
+    "$date": "2025-01-10T19:22:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4689"
+  },
+  "nombres": "Armando Alberto",
+  "apellidos": "Gil",
+  "email": "gil.armando@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$w2HWT7.6F7OpqcjYGt0tyeYMt7VXEKWtqAQvIDtD5ulGm0AcpPLO6",
+  "estado": true,
+  "fullname": "Armando Alberto Gil",
+  "createdAT": {
+    "$date": "2024-10-22T18:39:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be468a"
+  },
+  "nombres": "Rafael Gonzalo",
+  "apellidos": "Santana Santiago",
+  "email": "santanar@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$n3qp8arXuTbsp5ALNH8wredn0VBXPtcTAxwRnzKDlZ1ACfXIx44Qm",
+  "estado": true,
+  "fullname": "Rafael Gonzalo Santana Santiago",
+  "createdAT": {
+    "$date": "2025-01-30T07:29:29.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be468b"
+  },
+  "nombres": "José Sergio",
+  "apellidos": "Cabrera Guerrero",
+  "email": "josé_cabrera@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$MP4moiAOpUf.H22OalwOfuzatuDq5ikAloE4E16JWYEhB2l9ySe.m",
+  "estado": true,
+  "fullname": "José Sergio Cabrera Guerrero",
+  "createdAT": {
+    "$date": "2025-03-14T03:20:44.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be468c"
+  },
+  "nombres": "Diego",
+  "apellidos": "Gutiérrez",
+  "email": "diego_gutiérrez@icloud.com",
+  "email_validacion": true,
+  "password": "$2b$10$HhbA9aujE1N8mDSqBCATM.jfIEVJ.06PSrmSEnWGgIPBl9ov17hlm",
+  "estado": true,
+  "fullname": "Diego Gutiérrez",
+  "createdAT": {
+    "$date": "2025-03-13T10:08:03.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be468d"
+  },
+  "nombres": "Antonia",
+  "apellidos": "Rubio Soler",
+  "email": "antoniarubio75@yahoo.com",
+  "email_validacion": true,
+  "password": "$2b$10$1.hVWI0BcyfSoxa5G8Gw7eGvnI4cFPAxW9/hwwDjfM4Uffm41DcD6",
+  "estado": true,
+  "fullname": "Antonia Rubio Soler",
+  "createdAT": {
+    "$date": "2025-04-14T20:17:08.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be468e"
+  },
+  "nombres": "Catalina",
+  "apellidos": "Vega Herrera",
+  "email": "vegac@live.com",
+  "email_validacion": true,
+  "password": "$2b$10$euu7L1tH67KjmFuijdmgr.dq3TVoML5Hx7flF1ktlOlgN7Svdplh6",
+  "estado": true,
+  "fullname": "Catalina Vega Herrera",
+  "createdAT": {
+    "$date": "2025-01-27T12:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be468f"
+  },
+  "nombres": "Julia",
+  "apellidos": "Montero",
+  "email": "juliamontero71@aol.com",
+  "email_validacion": true,
+  "password": "$2b$10$VHptgnRLNiL/MAxkaLqJgu2cddg.TW3H84hZVSjLvaVtnaKRzSP/G",
+  "estado": true,
+  "fullname": "Julia Montero",
+  "createdAT": {
+    "$date": "2025-02-14T02:42:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4690"
+  },
+  "nombres": "Sofía",
+  "apellidos": "Sáez",
+  "email": "ssáez@outlook.com",
+  "email_validacion": true,
+  "password": "$2b$10$3WzGeXKTNcO0pPIoMk85Buyhq7Z6Pp3QOf7kCEb0ES4JC9vZBm1pS",
+  "estado": true,
+  "fullname": "Sofía Sáez",
+  "createdAT": {
+    "$date": "2024-10-25T21:45:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4691"
+  },
+  "nombres": "Mariana Juana",
+  "apellidos": "Pascual Delgado",
+  "email": "mariana425@hotmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$Dt/lB0qgRom2mS9nktzmZOaOanfQgYaT1c3ge92Q5izJiFT8Kg9sO",
+  "estado": true,
+  "fullname": "Mariana Juana Pascual Delgado",
+  "createdAT": {
+    "$date": "2025-04-10T18:04:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4692"
+  },
+  "nombres": "Elena",
+  "apellidos": "Blanco Garrido",
+  "email": "elena.blanco@zoho.com",
+  "email_validacion": true,
+  "password": "$2b$10$wMxfr4xKuctGnoQ71qPF3uELqXttdbzsnuy7EPaCU696DEMng7Gxa",
+  "estado": true,
+  "fullname": "Elena Blanco Garrido",
+  "createdAT": {
+    "$date": "2024-11-15T16:57:15.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4693"
+  },
+  "nombres": "Antonia",
+  "apellidos": "Serrano Vargas",
+  "email": "antonia_serrano@mail.com",
+  "email_validacion": true,
+  "password": "$2b$10$FSlwsCAh3/0DcbxSkEiLi.8ldXUI12ezXub26uS.XOH1ZBUONkk.y",
+  "estado": true,
+  "fullname": "Antonia Serrano Vargas",
+  "createdAT": {
+    "$date": "2024-10-21T13:19:26.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801d576420d5c4819be4694"
+  },
+  "nombres": "Roberto",
+  "apellidos": "Castillo Martínez",
+  "email": "rcastillo@protonmail.com",
+  "email_validacion": true,
+  "password": "$2b$10$NtaB9SBXTcWtyVJJEDOC.eV6DvHQF9BjaimrBnWbUYqCTbeo4Ag5O",
+  "estado": true,
+  "fullname": "Roberto Castillo Martínez",
+  "createdAT": {
+    "$date": "2025-01-27T04:17:06.000Z"
+  },
+  "__v": 0
+}]

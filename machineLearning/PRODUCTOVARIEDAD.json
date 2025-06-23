@@ -1,0 +1,8658 @@
+[{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81a8f"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "01CEFECOCAFÚ25",
+  "cantidad": 18,
+  "precio": 125,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81a8e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81a94"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "L",
+  "sku": "02RPNCAMBLAL06",
+  "cantidad": 36,
+  "precio": 109,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81a93"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81a95"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "XS",
+  "sku": "02RPNCAMROSX20",
+  "cantidad": 13,
+  "precio": 98,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81a93"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81a96"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "S",
+  "sku": "02RPNCAMROSS74",
+  "cantidad": 9,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81a93"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81a97"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "M",
+  "sku": "02RPNCAMROSM84",
+  "cantidad": 42,
+  "precio": 95,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81a93"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81a9c"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "03TECGAIGRIÚ28",
+  "cantidad": 16,
+  "precio": 76,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81a9b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:20:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aa1"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "04TECACCBLAÚ99",
+  "cantidad": 18,
+  "precio": 73,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aa0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aa6"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "XS",
+  "sku": "05RPMCHANEGX36",
+  "cantidad": 30,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aa5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aa7"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "S",
+  "sku": "05RPMCHANEGS60",
+  "cantidad": 12,
+  "precio": 98,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aa5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aa8"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "XL",
+  "sku": "05RPMCHAAZMX90",
+  "cantidad": 10,
+  "precio": 146,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aa5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aa9"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "XXL",
+  "sku": "05RPMCHAAZMX54",
+  "cantidad": 18,
+  "precio": 172,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aa5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aaa"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "XXL",
+  "sku": "05RPMCHAAZUX05",
+  "cantidad": 20,
+  "precio": 165,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aa5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aae"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "06MMFMALAZMÚ82",
+  "cantidad": 18,
+  "precio": 244,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aad"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aaf"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "06MMFMALROJÚ91",
+  "cantidad": 22,
+  "precio": 151,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aad"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ab2"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "07MMNMONGRIÚ90",
+  "cantidad": 19,
+  "precio": 64,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ab1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ab3"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "07MMNMONAZMÚ18",
+  "cantidad": 13,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ab1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ab4"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "07MMNMONAZUÚ36",
+  "cantidad": 13,
+  "precio": 60,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ab1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ab8"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "08ACNLONNEGÚ70",
+  "cantidad": 48,
+  "precio": 119,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ab7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ab9"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "08ACNLONCAFÚ67",
+  "cantidad": 10,
+  "precio": 87,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ab7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81abe"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "09TECCARNEGÚ83",
+  "cantidad": 16,
+  "precio": 63,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81abd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81abf"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "09TECCARBLAÚ33",
+  "cantidad": 12,
+  "precio": 45,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81abd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ac2"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "10ACNESTNEGÚ33",
+  "cantidad": 52,
+  "precio": 71,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ac1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ac3"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "10ACNESTCAFÚ90",
+  "cantidad": 7,
+  "precio": 118,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ac1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ac6"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "11TECPOWAZUÚ90",
+  "cantidad": 12,
+  "precio": 164,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ac5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:45:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ac7"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "11TECPOWROJÚ12",
+  "cantidad": 9,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ac5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:45:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ac8"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "11TECPOWBLAÚ12",
+  "cantidad": 6,
+  "precio": 154,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ac5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:45:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81acb"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "12TECGADROJÚ92",
+  "cantidad": 18,
+  "precio": 53,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aca"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:48:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81acc"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "12TECGADAZUÚ92",
+  "cantidad": 7,
+  "precio": 161,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aca"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:48:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81acf"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "13CENPERAZUÚ71",
+  "cantidad": 6,
+  "precio": 181,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ace"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:52:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ad0"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "13CENPERNEGÚ54",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ace"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:52:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ad1"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "13CENPERROSÚ07",
+  "cantidad": 8,
+  "precio": 251,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ace"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:52:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ad6"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "14CEFCOLROSÚ40",
+  "cantidad": 20,
+  "precio": 203,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ad5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ad9"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "15ACMBILNEGÚ23",
+  "cantidad": 13,
+  "precio": 106,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ad8"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ada"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "15ACMBILCAFÚ16",
+  "cantidad": 9,
+  "precio": 137,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ad8"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81adb"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "15ACMBILAZMÚ73",
+  "cantidad": 14,
+  "precio": 123,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ad8"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ade"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "16CENPERGRIÚ71",
+  "cantidad": 19,
+  "precio": 136,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81add"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ae1"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "37",
+  "sku": "17CAMSANBLA323",
+  "cantidad": 18,
+  "precio": 175,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ae0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:25:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ae2"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "38",
+  "sku": "17CAMSANBLA362",
+  "cantidad": 16,
+  "precio": 168,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ae0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:25:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ae6"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "36",
+  "sku": "18CAMZACAZU359",
+  "cantidad": 6,
+  "precio": 161,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ae5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ae7"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "37",
+  "sku": "18CAMZACAZU312",
+  "cantidad": 13,
+  "precio": 182,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ae5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ae8"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "38",
+  "sku": "18CAMZACAZU397",
+  "cantidad": 18,
+  "precio": 132,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ae5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aed"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "19MMMMOPNEGÚ96",
+  "cantidad": 18,
+  "precio": 241,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aec"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aee"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "19MMMMOPAZMÚ81",
+  "cantidad": 7,
+  "precio": 230,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81aec"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81af2"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "42",
+  "sku": "20CANZACBLA419",
+  "cantidad": 13,
+  "precio": 115,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81af3"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "43",
+  "sku": "20CANZACBLA424",
+  "cantidad": 16,
+  "precio": 143,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81af4"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "44",
+  "sku": "20CANZACBLA400",
+  "cantidad": 18,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81af7"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "36",
+  "sku": "21CAMSANGRI379",
+  "cantidad": 8,
+  "precio": 140,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81af8"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "37",
+  "sku": "21CAMSANGRI395",
+  "cantidad": 18,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81af9"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "35",
+  "sku": "21CAMSANNEG339",
+  "cantidad": 16,
+  "precio": 123,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81afa"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "36",
+  "sku": "21CAMSANNEG381",
+  "cantidad": 16,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81afb"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "41",
+  "sku": "21CAMSANBLA484",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81af6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81aff"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "22TECACCROJÚ53",
+  "cantidad": 9,
+  "precio": 141,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81afe"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b00"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "22TECACCAZUÚ49",
+  "cantidad": 28,
+  "precio": 50,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81afe"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b01"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "22TECACCGRIÚ86",
+  "cantidad": 10,
+  "precio": 59,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81afe"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b05"
+  },
+  "hxd": "#FFA500",
+  "color": "Naranja",
+  "talla": "Único",
+  "sku": "23CEMECONARÚ42",
+  "cantidad": 10,
+  "precio": 225,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b04"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b06"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "23CEMECOBLAÚ14",
+  "cantidad": 8,
+  "precio": 221,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b04"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b0a"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "24TECGAIBLAÚ76",
+  "cantidad": 9,
+  "precio": 140,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b09"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b0f"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "38",
+  "sku": "25CANBOTAZU304",
+  "cantidad": 16,
+  "precio": 168,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b0e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b10"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "39",
+  "sku": "25CANBOTAZU345",
+  "cantidad": 9,
+  "precio": 168,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b0e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b13"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "42",
+  "sku": "26CANZADROJ444",
+  "cantidad": 37,
+  "precio": 183,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b12"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b14"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "43",
+  "sku": "26CANZADROJ492",
+  "cantidad": 22,
+  "precio": 182,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b12"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b15"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "39",
+  "sku": "26CANZADVER379",
+  "cantidad": 36,
+  "precio": 147,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b12"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b16"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "40",
+  "sku": "26CANZADVER461",
+  "cantidad": 32,
+  "precio": 153,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b12"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b17"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "41",
+  "sku": "26CANZADVER480",
+  "cantidad": 14,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b12"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b1a"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "27MMMBODAZUÚ18",
+  "cantidad": 7,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b19"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b1b"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "27MMMBODGRIÚ82",
+  "cantidad": 8,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b19"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b1c"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "27MMMBODAZMÚ82",
+  "cantidad": 7,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b19"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b1f"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "28TECAUDNEGÚ14",
+  "cantidad": 8,
+  "precio": 106,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b1e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b20"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "28TECAUDGRIÚ86",
+  "cantidad": 13,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b1e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b25"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "29TECAUDNEGÚ37",
+  "cantidad": 9,
+  "precio": 150,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b24"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b2a"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "30MMFRINROJÚ50",
+  "cantidad": 24,
+  "precio": 84,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b29"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:56:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b2e"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "38",
+  "sku": "31CANZADMOR300",
+  "cantidad": 15,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b2d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b2f"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "39",
+  "sku": "31CANZADMOR327",
+  "cantidad": 16,
+  "precio": 80,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b2d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b30"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "40",
+  "sku": "31CANZADMOR467",
+  "cantidad": 13,
+  "precio": 123,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b2d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b31"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "41",
+  "sku": "31CANZADMOR423",
+  "cantidad": 7,
+  "precio": 71,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b2d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b34"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "32MMNMONAZMÚ56",
+  "cantidad": 12,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b33"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:25:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b35"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "32MMNMONROJÚ69",
+  "cantidad": 7,
+  "precio": 207,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b33"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:25:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b38"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "33MMNMOEAZUÚ54",
+  "cantidad": 10,
+  "precio": 90,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b37"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:53:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b39"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "33MMNMOEROJÚ06",
+  "cantidad": 21,
+  "precio": 120,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b37"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:53:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b3e"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "34MMMMALNEGÚ10",
+  "cantidad": 46,
+  "precio": 223,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b3d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b41"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "35TECGADROJÚ82",
+  "cantidad": 18,
+  "precio": 112,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b40"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b45"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "36MMNLONNEGÚ91",
+  "cantidad": 60,
+  "precio": 248,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b44"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b46"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "36MMNLONAZUÚ36",
+  "cantidad": 13,
+  "precio": 227,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b44"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b4a"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "37ACFBOMAZMÚ04",
+  "cantidad": 13,
+  "precio": 144,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b4b"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "37ACFBOMNEGÚ64",
+  "cantidad": 22,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b4c"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "37ACFBOMCAFÚ48",
+  "cantidad": 18,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b4f"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "38TECAUDBLAÚ73",
+  "cantidad": 12,
+  "precio": 168,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b4e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b52"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "36",
+  "sku": "39CANSANVER338",
+  "cantidad": 18,
+  "precio": 192,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b51"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b53"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "37",
+  "sku": "39CANSANVER398",
+  "cantidad": 8,
+  "precio": 106,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b51"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b58"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "35",
+  "sku": "40CANZACBLA303",
+  "cantidad": 16,
+  "precio": 98,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b57"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b59"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "36",
+  "sku": "40CANZACBLA321",
+  "cantidad": 13,
+  "precio": 98,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b57"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b5a"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "37",
+  "sku": "40CANZACBLA311",
+  "cantidad": 18,
+  "precio": 115,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b57"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b5b"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "38",
+  "sku": "40CANZACBLA376",
+  "cantidad": 11,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b57"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b60"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "S",
+  "sku": "41RPMRODNEGS28",
+  "cantidad": 16,
+  "precio": 119,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b5f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b61"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "M",
+  "sku": "41RPMRODNEGM64",
+  "cantidad": 8,
+  "precio": 91,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b5f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b62"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "M",
+  "sku": "41RPMRODAZMM16",
+  "cantidad": 15,
+  "precio": 84,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b5f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b63"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "L",
+  "sku": "41RPMRODAZML88",
+  "cantidad": 46,
+  "precio": 56,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b5f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b64"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "XL",
+  "sku": "41RPMRODAZMX85",
+  "cantidad": 6,
+  "precio": 88,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b5f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b68"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "M",
+  "sku": "42RPFPANROJM23",
+  "cantidad": 22,
+  "precio": 105,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b67"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b69"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "S",
+  "sku": "42RPFPANMORS45",
+  "cantidad": 12,
+  "precio": 182,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b67"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b6e"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "43CENCOIROJÚ75",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b6d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b6f"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "43CENCOIAMAÚ06",
+  "cantidad": 10,
+  "precio": 136,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b6d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b70"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "43CENCOIAZMÚ12",
+  "cantidad": 18,
+  "precio": 245,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b6d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b75"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "44TECAUDBLAÚ42",
+  "cantidad": 16,
+  "precio": 67,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b74"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:20:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b76"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "44TECAUDNEGÚ53",
+  "cantidad": 6,
+  "precio": 139,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b74"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:20:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b7b"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "45CENPERAZMÚ74",
+  "cantidad": 52,
+  "precio": 160,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b7a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b7c"
+  },
+  "hxd": "#FFA500",
+  "color": "Naranja",
+  "talla": "Único",
+  "sku": "45CENPERNARÚ10",
+  "cantidad": 30,
+  "precio": 221,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b7a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b81"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "46TECGADNEGÚ88",
+  "cantidad": 19,
+  "precio": 146,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b80"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:39:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b85"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "47CENCOIBLAÚ80",
+  "cantidad": 12,
+  "precio": 136,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b84"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b8a"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "41",
+  "sku": "48CAFZACBLA487",
+  "cantidad": 6,
+  "precio": 204,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b89"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b8b"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "42",
+  "sku": "48CAFZACBLA479",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b89"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b8c"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "43",
+  "sku": "48CAFZACBLA490",
+  "cantidad": 12,
+  "precio": 104,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b89"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b8d"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "38",
+  "sku": "48CAFZACNEG390",
+  "cantidad": 12,
+  "precio": 206,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b89"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b8e"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "39",
+  "sku": "48CAFZACNEG356",
+  "cantidad": 15,
+  "precio": 199,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b89"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b93"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "36",
+  "sku": "49CAMSANAZU322",
+  "cantidad": 21,
+  "precio": 157,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b92"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b94"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "37",
+  "sku": "49CAMSANAZU398",
+  "cantidad": 19,
+  "precio": 188,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b92"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b95"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "38",
+  "sku": "49CAMSANAZU358",
+  "cantidad": 8,
+  "precio": 175,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b92"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b96"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "39",
+  "sku": "49CAMSANAZU376",
+  "cantidad": 15,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b92"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b9b"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "50MMNMONAZMÚ00",
+  "cantidad": 22,
+  "precio": 185,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b9a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b9c"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "50MMNMONAZUÚ69",
+  "cantidad": 48,
+  "precio": 150,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b9a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81b9f"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "51MMMMALNEGÚ19",
+  "cantidad": 22,
+  "precio": 157,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b9e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:30:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ba0"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "51MMMMALAZMÚ93",
+  "cantidad": 7,
+  "precio": 218,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81b9e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:30:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ba4"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "52TECGAIAZUÚ35",
+  "cantidad": 18,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ba3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ba7"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "41",
+  "sku": "53CAFSANMOR477",
+  "cantidad": 12,
+  "precio": 134,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ba6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ba8"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "42",
+  "sku": "53CAFSANMOR421",
+  "cantidad": 12,
+  "precio": 171,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ba6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bac"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "54TECAUDNEGÚ93",
+  "cantidad": 19,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bab"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:59:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bad"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "54TECAUDBLAÚ35",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bab"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:59:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bae"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "54TECAUDGRIÚ42",
+  "cantidad": 12,
+  "precio": 85,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bab"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:59:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bb3"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "55CENCOIAMAÚ68",
+  "cantidad": 26,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bb2"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bb4"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "55CENCOIAZMÚ27",
+  "cantidad": 13,
+  "precio": 85,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bb2"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bb8"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "56ACMPORCAFÚ13",
+  "cantidad": 58,
+  "precio": 116,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bb7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:38:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bb9"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "56ACMPORAZMÚ34",
+  "cantidad": 9,
+  "precio": 106,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bb7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:38:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bba"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "56ACMPORGRIÚ60",
+  "cantidad": 15,
+  "precio": 71,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bb7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:38:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bbf"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "57MMFMALGRIÚ70",
+  "cantidad": 15,
+  "precio": 188,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bbe"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:25:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bc2"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "58ACNCARAZMÚ87",
+  "cantidad": 8,
+  "precio": 98,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bc1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:11:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bc3"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "58ACNCARNEGÚ61",
+  "cantidad": 13,
+  "precio": 60,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bc1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:11:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bc8"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "37",
+  "sku": "59CAFBOTROS388",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bc7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bc9"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "38",
+  "sku": "59CAFBOTROS331",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bc7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bca"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "39",
+  "sku": "59CAFBOTROS343",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bc7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bcb"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "40",
+  "sku": "59CAFBOTROS445",
+  "cantidad": 9,
+  "precio": 176,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bc7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bce"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "60ACFESTCAFÚ03",
+  "cantidad": 10,
+  "precio": 242,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bcd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bd1"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "37",
+  "sku": "61CANSANROJ329",
+  "cantidad": 9,
+  "precio": 136,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bd0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:26:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bd2"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "38",
+  "sku": "61CANSANROJ365",
+  "cantidad": 11,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bd0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:26:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bd5"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "62TECACCNEGÚ94",
+  "cantidad": 22,
+  "precio": 87,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bd4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bd6"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "62TECACCBLAÚ36",
+  "cantidad": 15,
+  "precio": 132,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bd4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bdb"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "63TECAUDBLAÚ78",
+  "cantidad": 20,
+  "precio": 160,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bda"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:00:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bdc"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "63TECAUDNEGÚ06",
+  "cantidad": 6,
+  "precio": 55,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bda"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:00:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81be0"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "64CENPERBLAÚ30",
+  "cantidad": 6,
+  "precio": 249,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bdf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:27:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81be1"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "64CENPERAZUÚ63",
+  "cantidad": 6,
+  "precio": 210,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bdf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:27:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81be4"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "65ACNLONNEGÚ51",
+  "cantidad": 9,
+  "precio": 56,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81be3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81be5"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "65ACNLONAZMÚ69",
+  "cantidad": 21,
+  "precio": 90,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81be3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81be6"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "65ACNLONCAFÚ42",
+  "cantidad": 9,
+  "precio": 92,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81be3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81beb"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "66MMNMOEAZUÚ08",
+  "cantidad": 19,
+  "precio": 161,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bea"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bee"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "M",
+  "sku": "67RPNSUDROJM51",
+  "cantidad": 18,
+  "precio": 119,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bed"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bef"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "L",
+  "sku": "67RPNSUDROJL72",
+  "cantidad": 18,
+  "precio": 109,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bed"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bf0"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "XL",
+  "sku": "67RPNSUDROJX46",
+  "cantidad": 6,
+  "precio": 125,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bed"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bf1"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "L",
+  "sku": "67RPNSUDMORL63",
+  "cantidad": 9,
+  "precio": 78,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bed"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bf2"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "XL",
+  "sku": "67RPNSUDMORX55",
+  "cantidad": 19,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bed"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bf7"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "XL",
+  "sku": "68RPNCAMROJX60",
+  "cantidad": 12,
+  "precio": 99,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bf6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bf8"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "XXL",
+  "sku": "68RPNCAMROJX32",
+  "cantidad": 14,
+  "precio": 57,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bf6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bf9"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "S",
+  "sku": "68RPNCAMBLAS16",
+  "cantidad": 12,
+  "precio": 80,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bf6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bfd"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "M",
+  "sku": "69RPMRODGRIM90",
+  "cantidad": 10,
+  "precio": 181,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bfc"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bfe"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "L",
+  "sku": "69RPMRODROJL30",
+  "cantidad": 22,
+  "precio": 200,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bfc"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81bff"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "XL",
+  "sku": "69RPMRODROJX54",
+  "cantidad": 24,
+  "precio": 120,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bfc"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c00"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "XXL",
+  "sku": "69RPMRODROJX09",
+  "cantidad": 14,
+  "precio": 143,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81bfc"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c04"
+  },
+  "hxd": "#FFA500",
+  "color": "Naranja",
+  "talla": "Único",
+  "sku": "70CENPERNARÚ22",
+  "cantidad": 10,
+  "precio": 234,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c03"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c09"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "71CEFCOLAMAÚ07",
+  "cantidad": 18,
+  "precio": 109,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c08"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:30:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c0c"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "72CENCOIROJÚ95",
+  "cantidad": 20,
+  "precio": 210,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c0b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:19:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c0d"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "72CENCOINEGÚ01",
+  "cantidad": 14,
+  "precio": 162,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c0b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:19:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c11"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "38",
+  "sku": "73CAMZADGRI365",
+  "cantidad": 10,
+  "precio": 87,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c10"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c12"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "39",
+  "sku": "73CAMZADGRI341",
+  "cantidad": 28,
+  "precio": 88,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c10"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c16"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "74MMFMOEGRIÚ08",
+  "cantidad": 52,
+  "precio": 178,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c15"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c17"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "74MMFMOEAZUÚ00",
+  "cantidad": 60,
+  "precio": 241,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c15"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c1b"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "75CENCOIAMAÚ08",
+  "cantidad": 13,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c1a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c1c"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "75CENCOINEGÚ71",
+  "cantidad": 12,
+  "precio": 94,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c1a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c1d"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "75CENCOIAZUÚ66",
+  "cantidad": 6,
+  "precio": 74,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c1a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c22"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "76MMFRINNEGÚ70",
+  "cantidad": 20,
+  "precio": 241,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c27"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "40",
+  "sku": "77CAMBOTAZU443",
+  "cantidad": 12,
+  "precio": 155,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c26"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c28"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "41",
+  "sku": "77CAMBOTAZU402",
+  "cantidad": 7,
+  "precio": 150,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c26"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c29"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "38",
+  "sku": "77CAMBOTGRI303",
+  "cantidad": 22,
+  "precio": 109,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c26"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c2a"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "39",
+  "sku": "77CAMBOTGRI319",
+  "cantidad": 22,
+  "precio": 207,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c26"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c2b"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "40",
+  "sku": "77CAMBOTGRI422",
+  "cantidad": 12,
+  "precio": 125,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c26"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c2f"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "78TECACCROJÚ19",
+  "cantidad": 22,
+  "precio": 167,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c2e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c30"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "78TECACCNEGÚ04",
+  "cantidad": 18,
+  "precio": 66,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c2e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c34"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "79ACNESTAZMÚ76",
+  "cantidad": 19,
+  "precio": 69,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c33"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:39:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c37"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "80TECACCGRIÚ90",
+  "cantidad": 26,
+  "precio": 80,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c36"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c3b"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "40",
+  "sku": "81CAMZADNEG480",
+  "cantidad": 24,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c3a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c3c"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "41",
+  "sku": "81CAMZADNEG439",
+  "cantidad": 7,
+  "precio": 90,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c3a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c3d"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "42",
+  "sku": "81CAMZADNEG458",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c3a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c3e"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "43",
+  "sku": "81CAMZADNEG481",
+  "cantidad": 18,
+  "precio": 70,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c3a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c3f"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "38",
+  "sku": "81CAMZADAZU345",
+  "cantidad": 16,
+  "precio": 137,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c3a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c43"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "82CEFPREAMAÚ25",
+  "cantidad": 52,
+  "precio": 70,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c42"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c44"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "82CEFPREROSÚ46",
+  "cantidad": 24,
+  "precio": 81,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c42"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c45"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "82CEFPREBLAÚ00",
+  "cantidad": 46,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c42"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c4a"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "XS",
+  "sku": "83RPNPANVERX60",
+  "cantidad": 7,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c4b"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "S",
+  "sku": "83RPNPANVERS96",
+  "cantidad": 60,
+  "precio": 73,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c4c"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "M",
+  "sku": "83RPNPANVERM34",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c4d"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "L",
+  "sku": "83RPNPANROJL68",
+  "cantidad": 12,
+  "precio": 73,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c4e"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "XL",
+  "sku": "83RPNPANROJX51",
+  "cantidad": 28,
+  "precio": 64,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c49"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c53"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "XXL",
+  "sku": "84RPNCAMBLAX84",
+  "cantidad": 50,
+  "precio": 141,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c52"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:15:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c54"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "L",
+  "sku": "84RPNCAMMORL59",
+  "cantidad": 30,
+  "precio": 176,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c52"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:15:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c55"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "XL",
+  "sku": "84RPNCAMMORX84",
+  "cantidad": 30,
+  "precio": 203,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c52"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:15:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c5a"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "85CENPERCAFÚ24",
+  "cantidad": 10,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c59"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c5b"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "85CENPERGRIÚ75",
+  "cantidad": 42,
+  "precio": 83,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c59"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c5c"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "85CENPERBLAÚ35",
+  "cantidad": 20,
+  "precio": 78,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c59"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c61"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "L",
+  "sku": "86RPFCAMNEGL19",
+  "cantidad": 22,
+  "precio": 171,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c60"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c62"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "XL",
+  "sku": "86RPFCAMNEGX15",
+  "cantidad": 10,
+  "precio": 207,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c60"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c67"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "37",
+  "sku": "87CAFBOTROJ371",
+  "cantidad": 10,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c66"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c68"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "38",
+  "sku": "87CAFBOTROJ377",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c66"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c69"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "39",
+  "sku": "87CAFBOTROJ303",
+  "cantidad": 15,
+  "precio": 83,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c66"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c6a"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "36",
+  "sku": "87CAFBOTROS349",
+  "cantidad": 14,
+  "precio": 80,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c66"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c6b"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "37",
+  "sku": "87CAFBOTROS324",
+  "cantidad": 6,
+  "precio": 137,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c66"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c70"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "88CENPERROSÚ36",
+  "cantidad": 9,
+  "precio": 202,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c6f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c73"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "M",
+  "sku": "89RPFCHABLAM08",
+  "cantidad": 22,
+  "precio": 127,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c72"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c74"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "L",
+  "sku": "89RPFCHANEGL10",
+  "cantidad": 60,
+  "precio": 139,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c72"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c75"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "M",
+  "sku": "89RPFCHAAZUM66",
+  "cantidad": 34,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c72"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c79"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "S",
+  "sku": "90RPNSUDAMAS01",
+  "cantidad": 52,
+  "precio": 123,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c78"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c7a"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "M",
+  "sku": "90RPNSUDAMAM02",
+  "cantidad": 12,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c78"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c7b"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "L",
+  "sku": "90RPNSUDBLAL67",
+  "cantidad": 12,
+  "precio": 91,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c78"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c7c"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "M",
+  "sku": "90RPNSUDVERM37",
+  "cantidad": 48,
+  "precio": 56,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c78"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c80"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "XL",
+  "sku": "91RPNGORROSX87",
+  "cantidad": 10,
+  "precio": 102,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c7f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c84"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "92CENPERNEGÚ24",
+  "cantidad": 7,
+  "precio": 167,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c83"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c85"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "92CENPERAZMÚ05",
+  "cantidad": 7,
+  "precio": 214,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c83"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c86"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "92CENPERCAFÚ73",
+  "cantidad": 10,
+  "precio": 132,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c83"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:33:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c8b"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "93MMFRINAZMÚ18",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c8a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:26:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c8c"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "93MMFRINGRIÚ17",
+  "cantidad": 16,
+  "precio": 199,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c8a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:26:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c91"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "Único",
+  "sku": "94CEFCOLVERÚ73",
+  "cantidad": 15,
+  "precio": 162,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c90"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c92"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "94CEFCOLROSÚ65",
+  "cantidad": 18,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c90"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c93"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "94CEFCOLAMAÚ84",
+  "cantidad": 12,
+  "precio": 185,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c90"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c97"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "95ACNCARCAFÚ74",
+  "cantidad": 15,
+  "precio": 104,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c96"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c98"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "95ACNCARGRIÚ49",
+  "cantidad": 42,
+  "precio": 120,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c96"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c9c"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "M",
+  "sku": "96RPNCAMROSM23",
+  "cantidad": 10,
+  "precio": 105,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c9b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:48:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81c9d"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "L",
+  "sku": "96RPNCAMAMAL35",
+  "cantidad": 21,
+  "precio": 69,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81c9b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:48:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ca2"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "Único",
+  "sku": "97CENPERMORÚ41",
+  "cantidad": 18,
+  "precio": 154,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ca1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ca3"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "Único",
+  "sku": "97CENPERVERÚ03",
+  "cantidad": 11,
+  "precio": 185,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ca1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ca4"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "97CENPERAZMÚ27",
+  "cantidad": 9,
+  "precio": 202,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ca1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ca8"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "M",
+  "sku": "98RPNCHAAZUM93",
+  "cantidad": 14,
+  "precio": 186,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ca7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ca9"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "L",
+  "sku": "98RPNCHAAZUL35",
+  "cantidad": 9,
+  "precio": 179,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ca7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81caa"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "L",
+  "sku": "98RPNCHAAMAL14",
+  "cantidad": 19,
+  "precio": 193,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ca7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cab"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "XL",
+  "sku": "98RPNCHAAMAX91",
+  "cantidad": 14,
+  "precio": 188,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ca7"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cb0"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "99CENCOINEGÚ45",
+  "cantidad": 9,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81caf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cb1"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "99CENCOIGRIÚ80",
+  "cantidad": 10,
+  "precio": 70,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81caf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cb2"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "Único",
+  "sku": "99CENCOIMORÚ25",
+  "cantidad": 7,
+  "precio": 73,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81caf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cb5"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "L",
+  "sku": "100RPMGORNEGL01",
+  "cantidad": 18,
+  "precio": 99,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cb4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cb6"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "S",
+  "sku": "100RPMGORGRIS53",
+  "cantidad": 16,
+  "precio": 95,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cb4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cb7"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "M",
+  "sku": "100RPMGORGRIM76",
+  "cantidad": 34,
+  "precio": 80,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cb4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cb8"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "L",
+  "sku": "100RPMGORGRIL68",
+  "cantidad": 18,
+  "precio": 104,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cb4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cbc"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "101TECACCNEGÚ47",
+  "cantidad": 28,
+  "precio": 119,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cbb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:38:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cc0"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "102ACFBILCAFÚ28",
+  "cantidad": 16,
+  "precio": 84,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cbf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cc1"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "102ACFBILAZMÚ73",
+  "cantidad": 18,
+  "precio": 127,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cbf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cc2"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "102ACFBILNEGÚ75",
+  "cantidad": 10,
+  "precio": 101,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cbf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cc7"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "103ACNLONAZMÚ63",
+  "cantidad": 18,
+  "precio": 81,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cc6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cc8"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "103ACNLONCAFÚ61",
+  "cantidad": 34,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cc6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ccb"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "104TECCARBLAÚ06",
+  "cantidad": 16,
+  "precio": 84,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cca"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ccf"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "105MMNMOEROJÚ19",
+  "cantidad": 44,
+  "precio": 221,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cce"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cd4"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "L",
+  "sku": "106RPNPANAZUL59",
+  "cantidad": 16,
+  "precio": 147,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cd3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cd5"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "XL",
+  "sku": "106RPNPANAZUX57",
+  "cantidad": 9,
+  "precio": 112,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cd3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cd6"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "XXL",
+  "sku": "106RPNPANAZUX06",
+  "cantidad": 13,
+  "precio": 105,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cd3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cda"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "XL",
+  "sku": "107RPMRODNEGX73",
+  "cantidad": 6,
+  "precio": 209,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cd9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cdb"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "M",
+  "sku": "107RPMRODBLAM14",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cd9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cdc"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "L",
+  "sku": "107RPMRODBLAL21",
+  "cantidad": 12,
+  "precio": 147,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cd9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ce0"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "108TECACCAZUÚ13",
+  "cantidad": 18,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cdf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ce1"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "108TECACCROJÚ99",
+  "cantidad": 16,
+  "precio": 94,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cdf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ce2"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "108TECACCNEGÚ41",
+  "cantidad": 26,
+  "precio": 88,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cdf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:40:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ce5"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "109ACNLONNEGÚ73",
+  "cantidad": 13,
+  "precio": 116,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ce4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ce6"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "109ACNLONAZMÚ90",
+  "cantidad": 10,
+  "precio": 74,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ce4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ce7"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "109ACNLONGRIÚ97",
+  "cantidad": 12,
+  "precio": 95,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ce4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ceb"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "110CENCOIROJÚ78",
+  "cantidad": 9,
+  "precio": 97,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cea"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cec"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "110CENCOIAMAÚ21",
+  "cantidad": 13,
+  "precio": 137,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cea"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ced"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "110CENCOIAZMÚ68",
+  "cantidad": 14,
+  "precio": 140,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cea"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cf1"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "39",
+  "sku": "111CANBOTROJ353",
+  "cantidad": 7,
+  "precio": 123,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cf2"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "40",
+  "sku": "111CANBOTROJ481",
+  "cantidad": 6,
+  "precio": 106,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cf3"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "41",
+  "sku": "111CANBOTROJ401",
+  "cantidad": 38,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cf4"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "40",
+  "sku": "111CANBOTVER465",
+  "cantidad": 34,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cf5"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "41",
+  "sku": "111CANBOTVER455",
+  "cantidad": 28,
+  "precio": 97,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cfa"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "37",
+  "sku": "112CAMZACNEG345",
+  "cantidad": 46,
+  "precio": 101,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cfb"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "38",
+  "sku": "112CAMZACNEG397",
+  "cantidad": 7,
+  "precio": 202,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cfc"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "35",
+  "sku": "112CAMZACAZU396",
+  "cantidad": 27,
+  "precio": 202,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cfd"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "36",
+  "sku": "112CAMZACAZU372",
+  "cantidad": 28,
+  "precio": 188,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81cfe"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "37",
+  "sku": "112CAMZACAZU343",
+  "cantidad": 13,
+  "precio": 150,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81cf9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d02"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "113MMFMOEAZMÚ21",
+  "cantidad": 7,
+  "precio": 211,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d01"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:54:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d03"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "113MMFMOEAZUÚ35",
+  "cantidad": 19,
+  "precio": 246,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d01"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:54:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d06"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "XXL",
+  "sku": "114RPNGORBLAX13",
+  "cantidad": 30,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d05"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:54:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d0a"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "Único",
+  "sku": "115CENCOIVERÚ19",
+  "cantidad": 7,
+  "precio": 232,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d09"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d0e"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "Único",
+  "sku": "116CENPERVERÚ00",
+  "cantidad": 7,
+  "precio": 140,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d0d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d0f"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "116CENPERROJÚ38",
+  "cantidad": 10,
+  "precio": 71,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d0d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d13"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "117MMNMOEROJÚ06",
+  "cantidad": 16,
+  "precio": 134,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d12"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d18"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "118MMFBODNEGÚ24",
+  "cantidad": 12,
+  "precio": 101,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d17"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:29:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d1c"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "119TECAUDBLAÚ65",
+  "cantidad": 14,
+  "precio": 139,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d1b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:37:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d1d"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "119TECAUDNEGÚ29",
+  "cantidad": 12,
+  "precio": 137,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d1b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:37:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d1e"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "119TECAUDGRIÚ05",
+  "cantidad": 10,
+  "precio": 104,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d1b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:37:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d22"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "120ACMESTGRIÚ99",
+  "cantidad": 40,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d23"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "120ACMESTNEGÚ78",
+  "cantidad": 30,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d24"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "120ACMESTAZMÚ67",
+  "cantidad": 34,
+  "precio": 78,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d28"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "Único",
+  "sku": "121CENCOIMORÚ40",
+  "cantidad": 48,
+  "precio": 76,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d27"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:53:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d29"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "121CENCOIBLAÚ07",
+  "cantidad": 15,
+  "precio": 132,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d27"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:53:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d2d"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "122CENPERNEGÚ53",
+  "cantidad": 22,
+  "precio": 190,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d2c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d31"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "123ACMPORAZMÚ64",
+  "cantidad": 21,
+  "precio": 83,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d30"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d32"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "123ACMPORNEGÚ00",
+  "cantidad": 18,
+  "precio": 70,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d30"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d36"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "124CENPERAZMÚ03",
+  "cantidad": 14,
+  "precio": 237,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d35"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:37:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d3a"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "125ACNLONCAFÚ75",
+  "cantidad": 10,
+  "precio": 81,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d39"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d3b"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "125ACNLONGRIÚ53",
+  "cantidad": 10,
+  "precio": 97,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d39"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d3c"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "125ACNLONNEGÚ01",
+  "cantidad": 13,
+  "precio": 116,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d39"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d40"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "126MMNMONAZMÚ30",
+  "cantidad": 7,
+  "precio": 241,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d3f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d41"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "126MMNMONAZUÚ09",
+  "cantidad": 8,
+  "precio": 252,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d3f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d44"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "127CEFECOAMAÚ11",
+  "cantidad": 54,
+  "precio": 101,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d43"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d47"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "S",
+  "sku": "128RPMPANGRIS75",
+  "cantidad": 56,
+  "precio": 94,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d46"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d48"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "S",
+  "sku": "128RPMPANAZMS72",
+  "cantidad": 21,
+  "precio": 95,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d46"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d49"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "M",
+  "sku": "128RPMPANAZMM69",
+  "cantidad": 9,
+  "precio": 102,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d46"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d4a"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "L",
+  "sku": "128RPMPANAZML92",
+  "cantidad": 15,
+  "precio": 120,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d46"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d4b"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "M",
+  "sku": "128RPMPANNEGM39",
+  "cantidad": 44,
+  "precio": 87,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d46"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d50"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "129MMMRINGRIÚ73",
+  "cantidad": 13,
+  "precio": 197,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d4f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d55"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "130MMMRINAZMÚ40",
+  "cantidad": 8,
+  "precio": 119,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d54"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d58"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "131MMFBODROJÚ22",
+  "cantidad": 22,
+  "precio": 251,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d57"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:56:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d5d"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "132MMMMALROJÚ94",
+  "cantidad": 6,
+  "precio": 183,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d5c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d5e"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "132MMMMALAZMÚ85",
+  "cantidad": 9,
+  "precio": 143,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d5c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d61"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "133MMMMOEROJÚ10",
+  "cantidad": 15,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d60"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d62"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "133MMMMOEAZUÚ16",
+  "cantidad": 13,
+  "precio": 105,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d60"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d66"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "43",
+  "sku": "134CANBOTROJ446",
+  "cantidad": 9,
+  "precio": 125,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d65"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d67"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "44",
+  "sku": "134CANBOTROJ403",
+  "cantidad": 8,
+  "precio": 74,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d65"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d68"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "36",
+  "sku": "134CANBOTBLA355",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d65"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d69"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "37",
+  "sku": "134CANBOTBLA303",
+  "cantidad": 12,
+  "precio": 127,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d65"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d6a"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "38",
+  "sku": "134CANBOTBLA309",
+  "cantidad": 7,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d65"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d6f"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "135MMNMOEGRIÚ42",
+  "cantidad": 9,
+  "precio": 150,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d6e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d70"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "135MMNMOEAZMÚ57",
+  "cantidad": 16,
+  "precio": 245,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d6e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d71"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "135MMNMOEROJÚ05",
+  "cantidad": 13,
+  "precio": 209,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d6e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d76"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "Único",
+  "sku": "136CEFECOMORÚ83",
+  "cantidad": 10,
+  "precio": 130,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d75"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d77"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "136CEFECOAZMÚ07",
+  "cantidad": 7,
+  "precio": 153,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d75"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d78"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "136CEFECOROJÚ30",
+  "cantidad": 15,
+  "precio": 171,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d75"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:31:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d7c"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "137ACFBILNEGÚ76",
+  "cantidad": 12,
+  "precio": 95,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d7b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d7d"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "137ACFBILGRIÚ76",
+  "cantidad": 18,
+  "precio": 120,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d7b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d7e"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "137ACFBILCAFÚ72",
+  "cantidad": 18,
+  "precio": 109,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d7b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:50:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d81"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "138CENPERCAFÚ31",
+  "cantidad": 10,
+  "precio": 130,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d80"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d82"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "138CENPERAZMÚ62",
+  "cantidad": 21,
+  "precio": 248,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d80"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d83"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "138CENPERROJÚ62",
+  "cantidad": 19,
+  "precio": 143,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d80"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d88"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "139TECACCAZUÚ95",
+  "cantidad": 15,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d87"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d8d"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "M",
+  "sku": "140RPNSUDVERM60",
+  "cantidad": 8,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d8c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d8e"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "L",
+  "sku": "140RPNSUDVERL88",
+  "cantidad": 13,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d8c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d8f"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "XXL",
+  "sku": "140RPNSUDAZUX17",
+  "cantidad": 16,
+  "precio": 155,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d8c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d94"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "Único",
+  "sku": "141CENCOIMORÚ51",
+  "cantidad": 7,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d93"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d95"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "141CENCOIAZMÚ14",
+  "cantidad": 26,
+  "precio": 118,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d93"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:07:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d9a"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "S",
+  "sku": "142RPNCHAAZUS31",
+  "cantidad": 12,
+  "precio": 120,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d99"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d9b"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "M",
+  "sku": "142RPNCHAAZUM93",
+  "cantidad": 26,
+  "precio": 73,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d99"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d9c"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "XXL",
+  "sku": "142RPNCHAROJX20",
+  "cantidad": 20,
+  "precio": 125,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d99"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:42:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81d9f"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "143TECGAINEGÚ72",
+  "cantidad": 10,
+  "precio": 84,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81d9e"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81da3"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "Único",
+  "sku": "144CENPERMORÚ34",
+  "cantidad": 10,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81da2"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81da4"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "144CENPERROJÚ12",
+  "cantidad": 7,
+  "precio": 210,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81da2"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81da7"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "145CEFECOROJÚ37",
+  "cantidad": 60,
+  "precio": 227,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81da6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:00:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81da8"
+  },
+  "hxd": "#FFA500",
+  "color": "Naranja",
+  "talla": "Único",
+  "sku": "145CEFECONARÚ61",
+  "cantidad": 20,
+  "precio": 157,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81da6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:00:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dac"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "XXL",
+  "sku": "146RPFROIAZUX99",
+  "cantidad": 8,
+  "precio": 202,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dab"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81daf"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "147TECACCBLAÚ37",
+  "cantidad": 7,
+  "precio": 125,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dae"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81db0"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "147TECACCAZUÚ31",
+  "cantidad": 15,
+  "precio": 97,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dae"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81db1"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "147TECACCROJÚ95",
+  "cantidad": 10,
+  "precio": 76,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dae"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81db6"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "148MMFBODGRIÚ98",
+  "cantidad": 9,
+  "precio": 218,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81db5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81db7"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "148MMFBODAZMÚ03",
+  "cantidad": 10,
+  "precio": 206,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81db5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81db8"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "148MMFBODNEGÚ31",
+  "cantidad": 9,
+  "precio": 161,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81db5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:35:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dbc"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "149MMFRINROJÚ77",
+  "cantidad": 12,
+  "precio": 127,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dbb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:26:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dc1"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "150CEFECOROSÚ75",
+  "cantidad": 10,
+  "precio": 90,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dc0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dc2"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "150CEFECONEGÚ23",
+  "cantidad": 50,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dc0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:03:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dc7"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "151ACFBILCAFÚ81",
+  "cantidad": 26,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dc6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dc8"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "151ACFBILNEGÚ28",
+  "cantidad": 26,
+  "precio": 104,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dc6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dc9"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "151ACFBILAZMÚ81",
+  "cantidad": 16,
+  "precio": 84,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dc6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dcc"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "152MMNMONNEGÚ15",
+  "cantidad": 14,
+  "precio": 234,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dcb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dcd"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "152MMNMONAZMÚ59",
+  "cantidad": 24,
+  "precio": 151,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dcb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dd2"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "43",
+  "sku": "153CANZACNEG443",
+  "cantidad": 10,
+  "precio": 178,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dd1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:20:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dd3"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "44",
+  "sku": "153CANZACNEG464",
+  "cantidad": 6,
+  "precio": 140,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dd1"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:20:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dd7"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "36",
+  "sku": "154CAMZACNEG391",
+  "cantidad": 13,
+  "precio": 81,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dd6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dd8"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "37",
+  "sku": "154CAMZACNEG397",
+  "cantidad": 7,
+  "precio": 91,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dd6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dd9"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "38",
+  "sku": "154CAMZACNEG333",
+  "cantidad": 34,
+  "precio": 90,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dd6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dda"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "39",
+  "sku": "154CAMZACNEG318",
+  "cantidad": 28,
+  "precio": 70,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dd6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:58:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ddd"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "155CEFPREAZMÚ63",
+  "cantidad": 18,
+  "precio": 213,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ddc"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dde"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "155CEFPRENEGÚ38",
+  "cantidad": 8,
+  "precio": 134,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ddc"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:09:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81de3"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "156TECAUDGRIÚ82",
+  "cantidad": 10,
+  "precio": 63,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81de2"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81de4"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "Único",
+  "sku": "156TECAUDBLAÚ75",
+  "cantidad": 7,
+  "precio": 106,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81de2"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:17:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81de7"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "157TECACCROJÚ43",
+  "cantidad": 30,
+  "precio": 97,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81de6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81de8"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "157TECACCGRIÚ43",
+  "cantidad": 10,
+  "precio": 109,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81de6"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:16:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dec"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "36",
+  "sku": "158CANZADROS312",
+  "cantidad": 10,
+  "precio": 105,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81deb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ded"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "37",
+  "sku": "158CANZADROS368",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81deb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dee"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "38",
+  "sku": "158CANZADROS348",
+  "cantidad": 10,
+  "precio": 119,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81deb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81def"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "38",
+  "sku": "158CANZADBLA371",
+  "cantidad": 21,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81deb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81df0"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "39",
+  "sku": "158CANZADBLA380",
+  "cantidad": 16,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81deb"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:36:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81df5"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "159CENCOIAZMÚ18",
+  "cantidad": 18,
+  "precio": 81,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81df4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:45:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81df6"
+  },
+  "hxd": "#FFA500",
+  "color": "Naranja",
+  "talla": "Único",
+  "sku": "159CENCOINARÚ81",
+  "cantidad": 15,
+  "precio": 104,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81df4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:45:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81df9"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "160CEMECOAZMÚ46",
+  "cantidad": 12,
+  "precio": 223,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81df8"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dfa"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "160CEMECOGRIÚ62",
+  "cantidad": 12,
+  "precio": 224,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81df8"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:13:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dfe"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "161MMNMOEGRIÚ87",
+  "cantidad": 38,
+  "precio": 167,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dfd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:38:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81dff"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "161MMNMOENEGÚ06",
+  "cantidad": 60,
+  "precio": 221,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81dfd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:38:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e02"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "162CENPERAZUÚ58",
+  "cantidad": 13,
+  "precio": 94,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e01"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e06"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "163MMMBODNEGÚ34",
+  "cantidad": 48,
+  "precio": 171,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e05"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:01:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e07"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "163MMMBODGRIÚ05",
+  "cantidad": 15,
+  "precio": 134,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e05"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:01:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e08"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "163MMMBODROJÚ93",
+  "cantidad": 46,
+  "precio": 144,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e05"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:01:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e0b"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "41",
+  "sku": "164CAFZADNEG475",
+  "cantidad": 26,
+  "precio": 104,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e0a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:52:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e0c"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "42",
+  "sku": "164CAFZADNEG437",
+  "cantidad": 18,
+  "precio": 188,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e0a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:52:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e0d"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "43",
+  "sku": "164CAFZADNEG468",
+  "cantidad": 26,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e0a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:52:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e0e"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "44",
+  "sku": "164CAFZADNEG498",
+  "cantidad": 8,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e0a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:52:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e11"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "165ACNLONCAFÚ05",
+  "cantidad": 12,
+  "precio": 94,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e10"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e12"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "165ACNLONGRIÚ17",
+  "cantidad": 10,
+  "precio": 127,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e10"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e17"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "166ACNCARAZMÚ95",
+  "cantidad": 22,
+  "precio": 74,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e16"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e1a"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "35",
+  "sku": "167CANZADROJ322",
+  "cantidad": 13,
+  "precio": 160,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e19"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e1b"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "36",
+  "sku": "167CANZADROJ321",
+  "cantidad": 18,
+  "precio": 157,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e19"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T05:02:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e1e"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "168CEMCOLCAFÚ33",
+  "cantidad": 7,
+  "precio": 137,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e1d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:15:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e1f"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "168CEMCOLAZUÚ45",
+  "cantidad": 8,
+  "precio": 80,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e1d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:15:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e22"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "M",
+  "sku": "169RPNPANMORM20",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e23"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "L",
+  "sku": "169RPNPANMORL30",
+  "cantidad": 10,
+  "precio": 168,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e24"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "XXL",
+  "sku": "169RPNPANBLAX66",
+  "cantidad": 26,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e25"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "M",
+  "sku": "169RPNPANROSM49",
+  "cantidad": 18,
+  "precio": 125,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e26"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "L",
+  "sku": "169RPNPANROSL89",
+  "cantidad": 13,
+  "precio": 196,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e21"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:43:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e2a"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "S",
+  "sku": "170RPFSUDMORS66",
+  "cantidad": 18,
+  "precio": 157,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e29"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e2b"
+  },
+  "hxd": "#800080",
+  "color": "Morado",
+  "talla": "M",
+  "sku": "170RPFSUDMORM04",
+  "cantidad": 8,
+  "precio": 126,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e29"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e2c"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "XXL",
+  "sku": "170RPFSUDAZUX27",
+  "cantidad": 18,
+  "precio": 169,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e29"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:28:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e30"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "171TECAUDNEGÚ46",
+  "cantidad": 10,
+  "precio": 83,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e2f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e31"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "171TECAUDGRIÚ42",
+  "cantidad": 13,
+  "precio": 80,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e2f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:24:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e34"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "172MMMMALAZUÚ77",
+  "cantidad": 52,
+  "precio": 248,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e33"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e39"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "173CENPERROSÚ32",
+  "cantidad": 9,
+  "precio": 81,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e38"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e3a"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "173CENPERAZUÚ61",
+  "cantidad": 14,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e38"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:04:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e3d"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "XS",
+  "sku": "174RPNCHAAZUX95",
+  "cantidad": 14,
+  "precio": 73,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e3c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e3e"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "M",
+  "sku": "174RPNCHAROJM67",
+  "cantidad": 9,
+  "precio": 105,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e3c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e3f"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "L",
+  "sku": "174RPNCHAROJL69",
+  "cantidad": 10,
+  "precio": 116,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e3c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e40"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "S",
+  "sku": "174RPNCHAVERS37",
+  "cantidad": 14,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e3c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e41"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "M",
+  "sku": "174RPNCHAVERM27",
+  "cantidad": 10,
+  "precio": 94,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e3c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:55:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e46"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "175TECPOWAZUÚ52",
+  "cantidad": 15,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e45"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:00:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e47"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "175TECPOWGRIÚ64",
+  "cantidad": 6,
+  "precio": 109,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e45"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:00:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e48"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "175TECPOWNEGÚ37",
+  "cantidad": 10,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e45"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:00:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e4d"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "176MMMMOPGRIÚ04",
+  "cantidad": 13,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e4c"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:11:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e50"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "177ACFNECNEGÚ29",
+  "cantidad": 16,
+  "precio": 139,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e4f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e51"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "177ACFNECGRIÚ97",
+  "cantidad": 15,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e4f"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:51:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e56"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "178ACFBILAZMÚ47",
+  "cantidad": 23,
+  "precio": 112,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e55"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e57"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "178ACFBILCAFÚ64",
+  "cantidad": 22,
+  "precio": 139,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e55"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e5a"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "179CENCOIROJÚ67",
+  "cantidad": 18,
+  "precio": 241,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e59"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e5b"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "179CENCOICAFÚ82",
+  "cantidad": 18,
+  "precio": 144,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e59"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e5c"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "179CENCOIGRIÚ36",
+  "cantidad": 7,
+  "precio": 251,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e59"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e61"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "180MMNMOENEGÚ51",
+  "cantidad": 30,
+  "precio": 60,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e60"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e62"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "180MMNMOEGRIÚ08",
+  "cantidad": 56,
+  "precio": 83,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e60"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e67"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "181MMMRINAZMÚ62",
+  "cantidad": 13,
+  "precio": 204,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e66"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e68"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "181MMMRINNEGÚ52",
+  "cantidad": 21,
+  "precio": 179,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e66"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e6b"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "182ACNESTCAFÚ57",
+  "cantidad": 15,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e6a"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e6e"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "183TECACCROJÚ95",
+  "cantidad": 5,
+  "precio": 129,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e6d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:29:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e73"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "Único",
+  "sku": "184CENPERROSÚ39",
+  "cantidad": 15,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e72"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:08:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e77"
+  },
+  "hxd": "#A52A2A",
+  "color": "Café",
+  "talla": "Único",
+  "sku": "185ACFNECCAFÚ77",
+  "cantidad": 18,
+  "precio": 87,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e76"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e78"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "185ACFNECNEGÚ49",
+  "cantidad": 19,
+  "precio": 77,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e76"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:06:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e7c"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "36",
+  "sku": "186CAMZADBLA312",
+  "cantidad": 12,
+  "precio": 188,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e7b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e7d"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "37",
+  "sku": "186CAMZADBLA338",
+  "cantidad": 10,
+  "precio": 119,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e7b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e7e"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "38",
+  "sku": "186CAMZADBLA317",
+  "cantidad": 12,
+  "precio": 185,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e7b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e7f"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "39",
+  "sku": "186CAMZADBLA398",
+  "cantidad": 18,
+  "precio": 140,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e7b"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:23:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e82"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "Único",
+  "sku": "187MMFBODAZUÚ20",
+  "cantidad": 15,
+  "precio": 228,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e81"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e83"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "187MMFBODNEGÚ08",
+  "cantidad": 10,
+  "precio": 169,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e81"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:46:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e88"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "188MMMMOEAZMÚ04",
+  "cantidad": 12,
+  "precio": 179,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e87"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e89"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "188MMMMOEGRIÚ40",
+  "cantidad": 14,
+  "precio": 204,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e87"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:22:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e8e"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "L",
+  "sku": "189RPNCAMAZUL67",
+  "cantidad": 13,
+  "precio": 113,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e8d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e8f"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "S",
+  "sku": "189RPNCAMNEGS91",
+  "cantidad": 13,
+  "precio": 118,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e8d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e90"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "M",
+  "sku": "189RPNCAMNEGM56",
+  "cantidad": 9,
+  "precio": 98,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e8d"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:44:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e95"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "190MMFMOUGRIÚ86",
+  "cantidad": 9,
+  "precio": 182,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e94"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e96"
+  },
+  "hxd": "#FF0000",
+  "color": "Rojo",
+  "talla": "Único",
+  "sku": "190MMFMOUROJÚ60",
+  "cantidad": 12,
+  "precio": 162,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e94"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e99"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "35",
+  "sku": "191CAMBOTNEG380",
+  "cantidad": 16,
+  "precio": 161,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e98"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e9a"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "36",
+  "sku": "191CAMBOTNEG373",
+  "cantidad": 12,
+  "precio": 150,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e98"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e9b"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "37",
+  "sku": "191CAMBOTNEG372",
+  "cantidad": 10,
+  "precio": 171,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e98"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e9c"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "38",
+  "sku": "191CAMBOTNEG389",
+  "cantidad": 10,
+  "precio": 189,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e98"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81e9d"
+  },
+  "hxd": "#0000FF",
+  "color": "Azul",
+  "talla": "40",
+  "sku": "191CAMBOTAZU457",
+  "cantidad": 30,
+  "precio": 160,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81e98"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:32:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ea1"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "41",
+  "sku": "192CANZACVER407",
+  "cantidad": 6,
+  "precio": 210,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ea0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ea2"
+  },
+  "hxd": "#008000",
+  "color": "Verde",
+  "talla": "42",
+  "sku": "192CANZACVER431",
+  "cantidad": 13,
+  "precio": 154,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ea0"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:41:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ea6"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "41",
+  "sku": "193CAFZACROS411",
+  "cantidad": 8,
+  "precio": 133,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ea5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ea7"
+  },
+  "hxd": "#FFC0CB",
+  "color": "Rosado",
+  "talla": "42",
+  "sku": "193CAFZACROS464",
+  "cantidad": 18,
+  "precio": 88,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ea5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ea8"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "39",
+  "sku": "193CAFZACBLA328",
+  "cantidad": 0,
+  "precio": 0,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ea5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ea9"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "40",
+  "sku": "193CAFZACBLA407",
+  "cantidad": 22,
+  "precio": 99,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ea5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eaa"
+  },
+  "hxd": "#FFFFFF",
+  "color": "Blanco",
+  "talla": "41",
+  "sku": "193CAFZACBLA484",
+  "cantidad": 10,
+  "precio": 111,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ea5"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:47:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eaf"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "194MMNMOEGRIÚ45",
+  "cantidad": 60,
+  "precio": 189,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81eae"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eb0"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "194MMNMOENEGÚ99",
+  "cantidad": 27,
+  "precio": 137,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81eae"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eb1"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "194MMNMOEAZMÚ28",
+  "cantidad": 52,
+  "precio": 231,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81eae"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:12:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eb5"
+  },
+  "hxd": "#FFA500",
+  "color": "Naranja",
+  "talla": "Único",
+  "sku": "195CENCOINARÚ49",
+  "cantidad": 36,
+  "precio": 91,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81eb4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eb6"
+  },
+  "hxd": "#FFFF00",
+  "color": "Amarillo",
+  "talla": "Único",
+  "sku": "195CENCOIAMAÚ80",
+  "cantidad": 12,
+  "precio": 108,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81eb4"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:34:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eb9"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "196ACNESTGRIÚ86",
+  "cantidad": 18,
+  "precio": 59,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81eb8"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eba"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "196ACNESTAZMÚ70",
+  "cantidad": 13,
+  "precio": 122,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81eb8"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T02:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ebe"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "197MMFMOEGRIÚ27",
+  "cantidad": 9,
+  "precio": 176,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ebd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:48:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ebf"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "197MMFMOEAZMÚ30",
+  "cantidad": 18,
+  "precio": 164,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ebd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:48:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ec0"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "197MMFMOENEGÚ47",
+  "cantidad": 12,
+  "precio": 181,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ebd"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:48:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ec4"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "198ACNLONGRIÚ46",
+  "cantidad": 13,
+  "precio": 71,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ec3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ec5"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "198ACNLONNEGÚ17",
+  "cantidad": 16,
+  "precio": 71,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ec3"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T01:57:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81eca"
+  },
+  "hxd": "#000000",
+  "color": "Negro",
+  "talla": "Único",
+  "sku": "199ACNLONNEGÚ83",
+  "cantidad": 14,
+  "precio": 102,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ec9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ecb"
+  },
+  "hxd": "#808080",
+  "color": "Gris",
+  "talla": "Único",
+  "sku": "199ACNLONGRIÚ68",
+  "cantidad": 8,
+  "precio": 60,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ec9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ecc"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "199ACNLONAZMÚ68",
+  "cantidad": 9,
+  "precio": 66,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ec9"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T04:18:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c1f17a8bebb1f4a81ed0"
+  },
+  "hxd": "#000080",
+  "color": "Azul Marino",
+  "talla": "Único",
+  "sku": "200MMNMONAZMÚ32",
+  "cantidad": 21,
+  "precio": 154,
+  "producto": {
+    "$oid": "6801c1f17a8bebb1f4a81ecf"
+  },
+  "createdAT": {
+    "$date": "2025-04-18T03:33:42.000Z"
+  },
+  "__v": 0
+}]

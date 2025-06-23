@@ -1,0 +1,5036 @@
+[{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b3c"
+  },
+  "titulo": "Set Colección Sweet Max 165",
+  "portada": "a1d6b916-d295-4352-af3a-48783d6dccf3.jpg",
+  "slug": "set-coleccion-sweet-max-165",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc2"
+  },
+  "subcategorias": "Colecciones Infantiles",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:46:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b41"
+  },
+  "titulo": "Case Phone Lite 575",
+  "portada": "fcfc596b-21cc-4159-81ea-75f03ca0c7e5.jpg",
+  "slug": "case-phone-lite-575",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Cargadores",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:17:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b49"
+  },
+  "titulo": "Tenis Sport Kid Premium 420",
+  "portada": "ac31fd2f-c783-4727-aee6-1565ccb81494.jpg",
+  "slug": "tenis-sport-kid-premium-420",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:15:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b66"
+  },
+  "titulo": "Cargador Color 2.0 972",
+  "portada": "fd5e95d3-a0c2-4ae3-8ca7-5e46d4cf6074.jpg",
+  "slug": "cargador-color-2-0-972",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbc"
+  },
+  "subcategorias": "Cargadores",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:35:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b70"
+  },
+  "titulo": "Case Phone Cute Premium 645",
+  "portada": "6e8120ac-2fc2-448f-b661-2825d31654c2.jpg",
+  "slug": "case-phone-cute-premium-645",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbe"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:21:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b7b"
+  },
+  "titulo": "Kit Edición Limitada Fashion Plus 847",
+  "portada": "bd6e037f-2173-4e23-a283-cc281e53f484.jpg",
+  "slug": "kit-edicion-limitada-fashion-plus-847",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:14:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b82"
+  },
+  "titulo": "Mochila Junior Pink Plus 101",
+  "portada": "f532dbf9-03e7-4e84-b14b-558b7b0b51e9.jpg",
+  "slug": "mochila-junior-pink-plus-101",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:14:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b8c"
+  },
+  "titulo": "Pantalón Cargo Pro 117",
+  "portada": "506b4636-e42c-478e-8767-35ddde0a3e87.jpg",
+  "slug": "pantalon-cargo-pro-117",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db3"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:49:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b8f"
+  },
+  "titulo": "Mochila Premium Gold Premium 814",
+  "portada": "537112de-cc81-49a1-9474-b116be1cfbe6.jpg",
+  "slug": "mochila-premium-gold-premium-814",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Colecciones Limitadas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:25:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1b9a"
+  },
+  "titulo": "Sudadera College Pro 914",
+  "portada": "07e5d4f2-c9d8-4b8c-8cfd-54ad3d8cb52d.jpg",
+  "slug": "sudadera-college-pro-914",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db3"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:07:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1bae"
+  },
+  "titulo": "Chaqueta Junior 2.0 625",
+  "portada": "d7ab8bcd-5416-4029-8574-eb73f791628e.jpg",
+  "slug": "chaqueta-junior-2-0-625",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Chaquetas",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:42:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1bbe"
+  },
+  "titulo": "Cartuchera Dream Lite 521",
+  "portada": "91a4c259-be72-4de8-90fa-e7510c42c48e.jpg",
+  "slug": "cartuchera-dream-lite-521",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:03:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1bc5"
+  },
+  "titulo": "Set Colección Infantil Premium 957",
+  "portada": "3d268934-f64f-46b9-98ee-8bf6edf31ee4.jpg",
+  "slug": "set-coleccion-infantil-premium-957",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc1"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:28:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1bcf"
+  },
+  "titulo": "Maleta Weekend Max 774",
+  "portada": "57c78813-be17-4f6f-a75a-ad1f921d2d92.jpg",
+  "slug": "maleta-weekend-max-774",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dac"
+  },
+  "subcategorias": "Bolsos Deportivos",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:08:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1bd6"
+  },
+  "titulo": "Camiseta Logo Plus 440",
+  "portada": "740e0d8e-a1e6-411a-be41-aebe5fd72e21.jpg",
+  "slug": "camiseta-logo-plus-440",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db3"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:07:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1be3"
+  },
+  "titulo": "Pantalón Play Pro 294",
+  "portada": "3d9adebf-d256-4294-885a-7293c04fa00a.jpg",
+  "slug": "pantalon-play-pro-294",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:03:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1bfb"
+  },
+  "titulo": "Camiseta Fun Pro 367",
+  "portada": "fd085ca9-0991-4c62-a626-3fe199188040.jpg",
+  "slug": "camiseta-fun-pro-367",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:39:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c0b"
+  },
+  "titulo": "Camiseta Princess Plus 533",
+  "portada": "d76504f5-5ce2-4c39-b2fe-086c4afb7517.jpg",
+  "slug": "camiseta-princess-plus-533",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Chaquetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:39:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c15"
+  },
+  "titulo": "Set Eco-friendly Premium 257",
+  "portada": "d898a561-2795-4ff9-ad8f-32bedb41075b.jpg",
+  "slug": "set-eco-friendly-premium-257",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:12:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c1f"
+  },
+  "titulo": "Bolso de Mano Evening Plus 679",
+  "portada": "042c544e-31bf-4902-8514-3cc94eae1253.jpg",
+  "slug": "bolso-de-mano-evening-plus-679",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Billeteras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:46:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c25"
+  },
+  "titulo": "Mochila Escolar Hero Pro 550",
+  "portada": "8778560d-8400-4d59-9e3e-43c450e12006.jpg",
+  "slug": "mochila-escolar-hero-pro-550",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dad"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:31:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c28"
+  },
+  "titulo": "Mochila Explorer Lite 413",
+  "portada": "e3491415-311b-448f-a454-84b48b27df2c.jpg",
+  "slug": "mochila-explorer-lite-413",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dab"
+  },
+  "subcategorias": "Mochilas Urbanas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:54:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c2f"
+  },
+  "titulo": "Chaqueta Junior Girl Max 347",
+  "portada": "250deb69-e7bc-49e6-86db-fbdec51ed44e.jpg",
+  "slug": "chaqueta-junior-girl-max-347",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Chaquetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:11:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c42"
+  },
+  "titulo": "Estuche Tech Max 346",
+  "portada": "25042431-f996-4607-81c0-05e5edb69e6d.jpg",
+  "slug": "estuche-tech-max-346",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Portadocumentos",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:43:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c47"
+  },
+  "titulo": "Riñonera Deportiva Plus 735",
+  "portada": "ab532855-7c15-4d45-ba7a-79bfa2c4ee1e.jpg",
+  "slug": "rinonera-deportiva-plus-735",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dab"
+  },
+  "subcategorias": "Mochilas Urbanas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:30:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c4b"
+  },
+  "titulo": "Mochila Escolar Hero Max 164",
+  "portada": "a53c9342-5e12-4915-8264-43ced7c7b008.jpg",
+  "slug": "mochila-escolar-hero-max-164",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dad"
+  },
+  "subcategorias": "Mochilas para Niños",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:18:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c52"
+  },
+  "titulo": "Sandalias Fun Premium 277",
+  "portada": "aa2af355-04bf-4f66-a650-a88e2a0334d3.jpg",
+  "slug": "sandalias-fun-premium-277",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Sandalias",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:54:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c5e"
+  },
+  "titulo": "Audífonos Slim Pro 590",
+  "portada": "6f329ba0-ec41-41c4-a6c7-4a0d0d2c9664.jpg",
+  "slug": "audifonos-slim-pro-590",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbc"
+  },
+  "subcategorias": "Gadgets",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:52:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c65"
+  },
+  "titulo": "Tenis Runner Plus 202",
+  "portada": "0e888843-d2be-48ad-bb74-dfd561af7a56.jpg",
+  "slug": "tenis-runner-plus-202",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:21:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c7f"
+  },
+  "titulo": "Mochila Personajes Girl Max 939",
+  "portada": "31b0e558-8de4-46e7-9a6f-4fcd5a3d2be4.jpg",
+  "slug": "mochila-personajes-girl-max-939",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc2"
+  },
+  "subcategorias": "Colecciones Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T03:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c84"
+  },
+  "titulo": "Lonchera Unicorn 2.0 788",
+  "portada": "41ae6835-b445-4f20-a4a0-5ba3031f0868.jpg",
+  "slug": "lonchera-unicorn-2-0-788",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas Escolares",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:58:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c8c"
+  },
+  "titulo": "Estuche Triple Stars Plus 884",
+  "portada": "f815ee2e-981f-42fd-a6ac-78d688bac033.jpg",
+  "slug": "estuche-triple-stars-plus-884",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Cartucheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:15:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c93"
+  },
+  "titulo": "Estuche Tech 2.0 467",
+  "portada": "2d206ab9-8524-426a-9c5e-688c48d5013b.jpg",
+  "slug": "estuche-tech-2-0-467",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Portadocumentos",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:56:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1c98"
+  },
+  "titulo": "Zapatillas City Max 551",
+  "portada": "7df40788-910b-40f0-be04-d732a50cb72b.jpg",
+  "slug": "zapatillas-city-max-551",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:06:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1caa"
+  },
+  "titulo": "Sandalias Fun Premium 261",
+  "portada": "7f1ab992-c4d0-4fb5-994f-e7d3940b3227.jpg",
+  "slug": "sandalias-fun-premium-261",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T03:07:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1cc3"
+  },
+  "titulo": "Neceser Beauty 2.0 124",
+  "portada": "063b0f89-0f05-48c3-85a5-869427917ead.jpg",
+  "slug": "neceser-beauty-2-0-124",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:09:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1cc8"
+  },
+  "titulo": "Estuche Triple Pro 879",
+  "portada": "e0d5a47b-d369-4e23-b4d4-63ea2389c90b.jpg",
+  "slug": "estuche-triple-pro-879",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db1"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:09:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ccf"
+  },
+  "titulo": "Mochila Premium Pro 413",
+  "portada": "72de74df-16c8-408f-98a3-3e1cc4a468bd.jpg",
+  "slug": "mochila-premium-pro-413",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:19:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1cd9"
+  },
+  "titulo": "Billetera Slim Max 832",
+  "portada": "3f25371b-e3ea-4c92-9cad-84ce726f48ee.jpg",
+  "slug": "billetera-slim-max-832",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Neceseres",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1cdf"
+  },
+  "titulo": "Neceser Voyage Max 216",
+  "portada": "4b568fa3-fe50-4ac6-afac-ae3271daa8ae.jpg",
+  "slug": "neceser-voyage-max-216",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Portadocumentos",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:24:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ce5"
+  },
+  "titulo": "Set Colección Infantil Plus 286",
+  "portada": "9efde019-2cb8-4fbd-a74d-253f6ada03d2.jpg",
+  "slug": "set-coleccion-infantil-plus-286",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc1"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:37:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1cee"
+  },
+  "titulo": "Mochila Premium 2.0 325",
+  "portada": "cda5c38a-f561-4cd3-b39f-c806160b2cbe.jpg",
+  "slug": "mochila-premium-2-0-325",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Colecciones Limitadas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:55:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1cf5"
+  },
+  "titulo": "Lonchera Princess Max 606",
+  "portada": "2d0f2ccb-37b2-49d0-8382-7a4801ffb29a.jpg",
+  "slug": "lonchera-princess-max-606",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:46:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1cfd"
+  },
+  "titulo": "Camiseta Fit Max 871",
+  "portada": "44a532e4-4d95-4c24-b34d-5036f6fa738e.jpg",
+  "slug": "camiseta-fit-max-871",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:23:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d0f"
+  },
+  "titulo": "Case Phone Cute Plus 721",
+  "portada": "2721861d-e61f-4f88-a189-5140528d9b36.jpg",
+  "slug": "case-phone-cute-plus-721",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbe"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:21:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d17"
+  },
+  "titulo": "Estuche Glam Lite 836",
+  "portada": "e3acbab7-fac9-4f88-8b7a-40fa6b20979d.jpg",
+  "slug": "estuche-glam-lite-836",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:36:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d1c"
+  },
+  "titulo": "Pantalón Slim Premium 168",
+  "portada": "b3b55d10-6db2-4596-b224-8bc180c6b80d.jpg",
+  "slug": "pantalon-slim-premium-168",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:39:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d2a"
+  },
+  "titulo": "Zapatillas Sweet Pro 613",
+  "portada": "d713845c-5a9d-4042-81e8-9e12e145251c.jpg",
+  "slug": "zapatillas-sweet-pro-613",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:37:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d44"
+  },
+  "titulo": "Tenis Sport Kid Plus 672",
+  "portada": "086959a4-e9f9-4e1c-8804-d5ab9bbae276.jpg",
+  "slug": "tenis-sport-kid-plus-672",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Sandalias",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:04:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d59"
+  },
+  "titulo": "Mochila Junior Pink Plus 764",
+  "portada": "bd693eb1-e652-4842-a3a5-77f888ce3c1b.jpg",
+  "slug": "mochila-junior-pink-plus-764",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:47:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d5d"
+  },
+  "titulo": "Mochila Premium Plus 702",
+  "portada": "19c790a7-0596-4224-8447-c9698e022f6d.jpg",
+  "slug": "mochila-premium-plus-702",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Colecciones Limitadas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:36:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d62"
+  },
+  "titulo": "Set Colección Sweet Pro 507",
+  "portada": "70c2acbc-8086-4959-a492-a476c4d468a7.jpg",
+  "slug": "set-coleccion-sweet-pro-507",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc2"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:00:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d6c"
+  },
+  "titulo": "Chaqueta Urban Max 997",
+  "portada": "53223093-7ab0-45bb-b16a-34b355c24cb5.jpg",
+  "slug": "chaqueta-urban-max-997",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db3"
+  },
+  "subcategorias": "Sudaderas",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:57:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d86"
+  },
+  "titulo": "Camiseta Princess Premium 575",
+  "portada": "4a70652f-733c-467f-9112-4df5432bb753.jpg",
+  "slug": "camiseta-princess-premium-575",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:59:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1d95"
+  },
+  "titulo": "Chaqueta City 2.0 993",
+  "portada": "731e3bac-6167-4189-996a-c3fc9c2fcc6e.jpg",
+  "slug": "chaqueta-city-2-0-993",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Ropa Deportiva",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T03:12:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1da6"
+  },
+  "titulo": "Billetera Classic 2.0 617",
+  "portada": "ccb92294-4091-4e32-804f-f89ec84528b9.jpg",
+  "slug": "billetera-classic-2-0-617",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Billeteras",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:34:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1daf"
+  },
+  "titulo": "Camiseta Fun Max 610",
+  "portada": "150797fe-3077-4714-97f5-34acff5e31df.jpg",
+  "slug": "camiseta-fun-max-610",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:59:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1dbd"
+  },
+  "titulo": "Billetera Slim 2.0 525",
+  "portada": "17f7b551-fb17-4db4-a892-e619887b9330.jpg",
+  "slug": "billetera-slim-2-0-525",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:23:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1dc3"
+  },
+  "titulo": "Set Eco-friendly Plus Max 364",
+  "portada": "13bf26a8-accd-4c2d-a43c-29f80334fc6e.jpg",
+  "slug": "set-eco-friendly-plus-max-364",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Colecciones Limitadas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:44:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1dcc"
+  },
+  "titulo": "Mochila Junior Pink Max 123",
+  "portada": "5aa27711-1032-4ba3-8dd8-0ab4af25ccc9.jpg",
+  "slug": "mochila-junior-pink-max-123",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas Escolares",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:36:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1dd6"
+  },
+  "titulo": "Audífonos Slim 2.0 154",
+  "portada": "4a801396-780b-4825-b58e-16d197c24a9e.jpg",
+  "slug": "audifonos-slim-2-0-154",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbc"
+  },
+  "subcategorias": "Powerbanks",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:13:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1dde"
+  },
+  "titulo": "Zapatillas City Fit Max 678",
+  "portada": "8e6e3911-9845-4512-a498-37cb7069bcc9.jpg",
+  "slug": "zapatillas-city-fit-max-678",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db8"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:06:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1de5"
+  },
+  "titulo": "Estuche Glam Plus 959",
+  "portada": "e0860b1e-ba42-4333-805c-c5cbe58c8a1a.jpg",
+  "slug": "estuche-glam-plus-959",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:49:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ded"
+  },
+  "titulo": "Kit Edición Limitada Fashion Plus 364",
+  "portada": "367a7eac-5835-4684-845c-4a50bd698eab.jpg",
+  "slug": "kit-edicion-limitada-fashion-plus-364",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Colecciones Limitadas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:41:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1df5"
+  },
+  "titulo": "Set Eco-friendly Plus Pro 704",
+  "portada": "f8882483-e065-4d1d-9ef5-7feaefb86b28.jpg",
+  "slug": "set-eco-friendly-plus-pro-704",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Colecciones Limitadas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:37:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1dfc"
+  },
+  "titulo": "Lonchera Unicorn Lite 829",
+  "portada": "0e4f683a-f292-4624-b703-2c42bff52cb5.jpg",
+  "slug": "lonchera-unicorn-lite-829",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas para Niños",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:29:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e01"
+  },
+  "titulo": "Set Colección Sweet Pro 920",
+  "portada": "449c598f-dd31-43e5-86cb-1e79e55069c6.jpg",
+  "slug": "set-coleccion-sweet-pro-920",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc2"
+  },
+  "subcategorias": "Colecciones Infantiles",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:43:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e0a"
+  },
+  "titulo": "Zapatillas City Lite 284",
+  "portada": "f4fca640-e5c2-4974-bbfc-1f7fcab89176.jpg",
+  "slug": "zapatillas-city-lite-284",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:12:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e2e"
+  },
+  "titulo": "Sandalias Fun Pro 913",
+  "portada": "5b875aac-d60f-483c-aa5e-6b6b80d5801c.jpg",
+  "slug": "sandalias-fun-pro-913",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:15:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e3b"
+  },
+  "titulo": "Botas Urban Premium 718",
+  "portada": "dca1192b-dbdd-4952-ae3e-ab96ca2f314e.jpg",
+  "slug": "botas-urban-premium-718",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db8"
+  },
+  "subcategorias": "Botas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:11:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e5e"
+  },
+  "titulo": "Kit Edición Limitada Fashion Max 787",
+  "portada": "9e6d9c8a-a952-4ddf-901d-a6aabf6733b1.jpg",
+  "slug": "kit-edicion-limitada-fashion-max-787",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Eco-friendly",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:22:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e65"
+  },
+  "titulo": "Pantalón Sweet Premium 875",
+  "portada": "bc89086b-6674-4ce4-bdc1-34bcee510a9f.jpg",
+  "slug": "pantalon-sweet-premium-875",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:39:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e74"
+  },
+  "titulo": "Mochila Urbana 2.0 258",
+  "portada": "6effe971-373f-4560-9eef-48ae915eef7d.jpg",
+  "slug": "mochila-urbana-2-0-258",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dab"
+  },
+  "subcategorias": "Mochilas para Portátil",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:36:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e77"
+  },
+  "titulo": "Set Eco-friendly Plus Max 828",
+  "portada": "497f6718-fa18-4a7f-ab35-5f0f389c36b1.jpg",
+  "slug": "set-eco-friendly-plus-max-828",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:11:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e7e"
+  },
+  "titulo": "Lonchera Unicorn Max 626",
+  "portada": "8ae6efa9-4801-485d-85a8-96e6420b8236.jpg",
+  "slug": "lonchera-unicorn-max-626",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas para Niños",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:25:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e84"
+  },
+  "titulo": "Camiseta Fun Plus 198",
+  "portada": "31743647-468d-4fe7-b3d6-932cb9fcb4aa.jpg",
+  "slug": "camiseta-fun-plus-198",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Chaquetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:19:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e98"
+  },
+  "titulo": "Portadocumentos Ejecutivo Lite 597",
+  "portada": "9a1b83c6-7cf1-4972-87c8-b5e3ee2e307f.jpg",
+  "slug": "portadocumentos-ejecutivo-lite-597",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Billeteras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:30:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1e9e"
+  },
+  "titulo": "Cartuchera Adventure Premium 185",
+  "portada": "8e523a62-7470-4c91-a807-7364013e5184.jpg",
+  "slug": "cartuchera-adventure-premium-185",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db1"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:16:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ea4"
+  },
+  "titulo": "Camiseta Princess Pro 757",
+  "portada": "7e26db1d-a806-4ccb-ae84-156f5e782942.jpg",
+  "slug": "camiseta-princess-pro-757",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Sudaderas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:29:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1eb8"
+  },
+  "titulo": "Set Eco-friendly Plus Max 622",
+  "portada": "e03d2139-cb11-481b-8d18-4b72837b0fea.jpg",
+  "slug": "set-eco-friendly-plus-max-622",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T03:13:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ebf"
+  },
+  "titulo": "Riñonera Deportiva Pro 858",
+  "portada": "23ee2c25-adda-41e5-9d8a-c27e4e0a1ee1.jpg",
+  "slug": "rinonera-deportiva-pro-858",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dab"
+  },
+  "subcategorias": "Maletas de Viaje",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:46:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ec3"
+  },
+  "titulo": "Pantalón Sweet Max 828",
+  "portada": "bc01f685-02a2-4f5e-8fef-ba7ea6c96edf.jpg",
+  "slug": "pantalon-sweet-max-828",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:20:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ed3"
+  },
+  "titulo": "Lonchera Unicorn Max 334",
+  "portada": "6bc57e24-6bbf-4957-a31a-5cd7d104afb4.jpg",
+  "slug": "lonchera-unicorn-max-334",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:46:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ede"
+  },
+  "titulo": "Estuche Glam Lite 953",
+  "portada": "09c94d6b-030d-4032-9225-ea888a8f9e5b.jpg",
+  "slug": "estuche-glam-lite-953",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Bolsos de Mano",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:22:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ee6"
+  },
+  "titulo": "Mochila Fashion 2.0 958",
+  "portada": "74633338-59d0-475b-946b-bc9bf408427d.jpg",
+  "slug": "mochila-fashion-2-0-958",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dac"
+  },
+  "subcategorias": "Maletas de Viaje",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:53:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ef1"
+  },
+  "titulo": "Case Phone Pro 184",
+  "portada": "33b93a6c-8397-47cf-bc56-b7c11d3cd068.jpg",
+  "slug": "case-phone-pro-184",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Accesorios para Celular",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:21:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1ef7"
+  },
+  "titulo": "Mochila Premium Lite 933",
+  "portada": "866ac227-b773-4dfa-b1dc-4042a293230f.jpg",
+  "slug": "mochila-premium-lite-933",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Eco-friendly",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:35:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1efc"
+  },
+  "titulo": "Camiseta Fit Lite 647",
+  "portada": "42e5b7fd-d7a7-4b2d-a99f-a7dced3df0bb.jpg",
+  "slug": "camiseta-fit-lite-647",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:50:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f05"
+  },
+  "titulo": "Cartuchera Adventure Premium 987",
+  "portada": "45b75152-8e20-45de-b935-c42eea3fdbbd.jpg",
+  "slug": "cartuchera-adventure-premium-987",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db1"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:44:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f10"
+  },
+  "titulo": "Billetera Classic 2.0 275",
+  "portada": "6278ccf6-d5fd-475e-a4a0-7de03e2a223f.jpg",
+  "slug": "billetera-classic-2-0-275",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Billeteras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:50:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f19"
+  },
+  "titulo": "Audífonos Kid Plus 186",
+  "portada": "97c87c52-77fe-4c20-9a72-dd8abbcd3b38.jpg",
+  "slug": "audifonos-kid-plus-186",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbd"
+  },
+  "subcategorias": "Accesorios para Celular",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f1f"
+  },
+  "titulo": "Cartuchera Adventure Lite 785",
+  "portada": "ce3c04a0-4f88-491d-a5b9-e7f1108dca88.jpg",
+  "slug": "cartuchera-adventure-lite-785",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db1"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:24:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f2a"
+  },
+  "titulo": "Zapatillas Sweet Max 921",
+  "portada": "11a68e2e-4136-42c4-a7fb-7bce94d1710c.jpg",
+  "slug": "zapatillas-sweet-max-921",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T03:11:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f3f"
+  },
+  "titulo": "Estuche Triple 2.0 705",
+  "portada": "196d4b45-8c80-421e-8d41-015b0866f5e3.jpg",
+  "slug": "estuche-triple-2-0-705",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db1"
+  },
+  "subcategorias": "Cartucheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:25:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f45"
+  },
+  "titulo": "Gadget Sweet Pro 509",
+  "portada": "f9426b56-e88d-4896-ad9d-7b1e47b395f0.jpg",
+  "slug": "gadget-sweet-pro-509",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbe"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:44:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f49"
+  },
+  "titulo": "Audífonos Pro Premium 416",
+  "portada": "bc8897f9-eb20-462e-b684-dd975024120f.jpg",
+  "slug": "audifonos-pro-premium-416",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Powerbanks",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:27:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f52"
+  },
+  "titulo": "Mochila Lifestyle Pro 677",
+  "portada": "58314bda-60a3-495d-85e9-872149801446.jpg",
+  "slug": "mochila-lifestyle-pro-677",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dac"
+  },
+  "subcategorias": "Mochilas para Portátil",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:32:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f56"
+  },
+  "titulo": "Mochila Personajes Max 161",
+  "portada": "c90f2261-f832-493c-8856-45845640c5af.jpg",
+  "slug": "mochila-personajes-max-161",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc1"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:58:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f5d"
+  },
+  "titulo": "Tenis Sport Girl Premium 692",
+  "portada": "391db539-436f-45ca-a7e3-10374f9dd8d4.jpg",
+  "slug": "tenis-sport-girl-premium-692",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:19:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f75"
+  },
+  "titulo": "Chaqueta Junior Girl Premium 176",
+  "portada": "7dd04db7-e906-4de7-b844-c704678d89fa.jpg",
+  "slug": "chaqueta-junior-girl-premium-176",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Sudaderas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:07:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f82"
+  },
+  "titulo": "Sandalias Summer Kid Max 518",
+  "portada": "b8fcaf20-d388-44a7-8814-31ae4dc2f8fd.jpg",
+  "slug": "sandalias-summer-kid-max-518",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:39:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f8f"
+  },
+  "titulo": "Estuche Glam 2.0 739",
+  "portada": "1ea562d6-eb02-4b95-a029-8d436035b975.jpg",
+  "slug": "estuche-glam-2-0-739",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Bolsos de Mano",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:55:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f93"
+  },
+  "titulo": "Pantalón Sweet Plus 139",
+  "portada": "95f3d5ed-5f24-4ce7-88fb-647dad8d8dbf.jpg",
+  "slug": "pantalon-sweet-plus-139",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:36:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1f9e"
+  },
+  "titulo": "Bolso de Mano Evening Plus 865",
+  "portada": "6b06afa3-2a4c-4684-b1f6-500f06f0d307.jpg",
+  "slug": "bolso-de-mano-evening-plus-865",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Billeteras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:36:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fa5"
+  },
+  "titulo": "Lonchera Princess Max 221",
+  "portada": "06145cb2-b226-4294-a297-e4b6e5ab762a.jpg",
+  "slug": "lonchera-princess-max-221",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:51:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fac"
+  },
+  "titulo": "Zapatillas Sweet Plus 841",
+  "portada": "a2a6cd39-a6d7-4bb7-9007-0358d0b66b5f.jpg",
+  "slug": "zapatillas-sweet-plus-841",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Botas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:26:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fc1"
+  },
+  "titulo": "Bolso de Mano Evening Pro 570",
+  "portada": "93c448d8-75b6-4195-9110-294013d31770.jpg",
+  "slug": "bolso-de-mano-evening-pro-570",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Bolsos de Mano",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:34:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fc8"
+  },
+  "titulo": "Camiseta Princess Pro 218",
+  "portada": "6866dc59-13ea-4644-925f-285865d93ba3.jpg",
+  "slug": "camiseta-princess-pro-218",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:19:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fd6"
+  },
+  "titulo": "Case Phone Fun Pro 334",
+  "portada": "9c1eda34-92fc-4f93-8957-8bc5dcd1a00e.jpg",
+  "slug": "case-phone-fun-pro-334",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbd"
+  },
+  "subcategorias": "Audífonos",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:43:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fdd"
+  },
+  "titulo": "Gadget Sweet Plus 543",
+  "portada": "0b454c2e-577a-4eb0-bb6c-33708a83e10c.jpg",
+  "slug": "gadget-sweet-plus-543",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbe"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:42:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fe4"
+  },
+  "titulo": "Audífonos Kid Max 508",
+  "portada": "07adaa29-cae5-4cc2-9dbf-382ab1068046.jpg",
+  "slug": "audifonos-kid-max-508",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbd"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:53:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1fe7"
+  },
+  "titulo": "Mochila Junior Plus 371",
+  "portada": "84f98fea-c70b-4775-ac80-570e8520aafc.jpg",
+  "slug": "mochila-junior-plus-371",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dad"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:24:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f1feb"
+  },
+  "titulo": "Zapatillas City Plus 145",
+  "portada": "32bbf2c7-34b7-445f-b15a-c62e26bb5fd1.jpg",
+  "slug": "zapatillas-city-plus-145",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:05:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2004"
+  },
+  "titulo": "Camiseta Fun 2.0 478",
+  "portada": "e4d91a1b-7fe8-4278-9b3c-35ef3ced4f75.jpg",
+  "slug": "camiseta-fun-2-0-478",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Chaquetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:43:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2009"
+  },
+  "titulo": "Sandalias Fun Pro 981",
+  "portada": "ceb6ec65-9b0d-478e-a2b2-c89cc393f54f.jpg",
+  "slug": "sandalias-fun-pro-981",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Sandalias",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:12:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f202a"
+  },
+  "titulo": "Camiseta Fit Pro 996",
+  "portada": "79d16822-b035-48c6-a6db-590c2c48fb26.jpg",
+  "slug": "camiseta-fit-pro-996",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Gorras y Sombreros",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:12:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f203b"
+  },
+  "titulo": "Lonchera Unicorn Max 496",
+  "portada": "6e66ac59-d004-4cef-a3f6-83274ebff257.jpg",
+  "slug": "lonchera-unicorn-max-496",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas para Niños",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:43:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2041"
+  },
+  "titulo": "Mochila Premium Pro 135",
+  "portada": "96524048-a224-4d0a-9d13-9a37075f8e71.jpg",
+  "slug": "mochila-premium-pro-135",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Eco-friendly",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T03:08:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f204b"
+  },
+  "titulo": "Chaqueta Junior Premium 378",
+  "portada": "984dc963-73da-4f37-900d-4a8c0e2c669c.jpg",
+  "slug": "chaqueta-junior-premium-378",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Sudaderas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:00:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f205c"
+  },
+  "titulo": "Set Eco-friendly Plus 2.0 241",
+  "portada": "1d195017-17d6-49ab-a082-6cdbb2a1be37.jpg",
+  "slug": "set-eco-friendly-plus-2-0-241",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:33:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2065"
+  },
+  "titulo": "Lonchera Princess 2.0 925",
+  "portada": "19050e22-d779-4f6b-bc1c-547c89056f33.jpg",
+  "slug": "lonchera-princess-2-0-925",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Cartucheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:03:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f206f"
+  },
+  "titulo": "Cartuchera Dream Lite 761",
+  "portada": "927d8ebe-124a-4786-b42f-7d90d84a922b.jpg",
+  "slug": "cartuchera-dream-lite-761",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:25:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2073"
+  },
+  "titulo": "Billetera Slim 2.0 805",
+  "portada": "5e215172-64c4-45c4-9314-ecd1e568c306.jpg",
+  "slug": "billetera-slim-2-0-805",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Bolsos de Mano",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:06:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2077"
+  },
+  "titulo": "Set Eco-friendly Pro 726",
+  "portada": "784b314e-2c8c-4892-bc53-1a2559f26cd4.jpg",
+  "slug": "set-eco-friendly-pro-726",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Colecciones Limitadas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f207d"
+  },
+  "titulo": "Bolso de Mano Evening Lite 313",
+  "portada": "92275d6c-9482-48d1-b561-ef53fd17b037.jpg",
+  "slug": "bolso-de-mano-evening-lite-313",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Bolsos de Mano",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:16:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2080"
+  },
+  "titulo": "Camiseta Fit Pro 173",
+  "portada": "5aa24998-55b0-4489-ae1f-2b6638a7325b.jpg",
+  "slug": "camiseta-fit-pro-173",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Sudaderas",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:32:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2095"
+  },
+  "titulo": "Gadget Junior Plus 584",
+  "portada": "38f1509a-bb6e-4b02-8fbe-bb7b44b41b9d.jpg",
+  "slug": "gadget-junior-plus-584",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbd"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:37:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f209f"
+  },
+  "titulo": "Pantalón Slim Lite 252",
+  "portada": "0a51afeb-b9e5-40f2-b25f-94d3ccf6d8e7.jpg",
+  "slug": "pantalon-slim-lite-252",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Ropa Deportiva",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T03:12:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20ac"
+  },
+  "titulo": "Chaqueta Junior Pro 316",
+  "portada": "e7b91e0a-3251-4eda-aed1-73b91cd2ea7d.jpg",
+  "slug": "chaqueta-junior-pro-316",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db5"
+  },
+  "subcategorias": "Gorras y Sombreros",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:32:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20bd"
+  },
+  "titulo": "Chaqueta City Plus 178",
+  "portada": "291ae561-c0f4-47d4-8ab2-dfe26d72ad54.jpg",
+  "slug": "chaqueta-city-plus-178",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:44:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20cb"
+  },
+  "titulo": "Portadocumentos Ejecutivo Pro 306",
+  "portada": "cc6631f4-ad34-4ebc-96de-bc110bb530c8.jpg",
+  "slug": "portadocumentos-ejecutivo-pro-306",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:19:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20d3"
+  },
+  "titulo": "Set Eco-friendly Plus Plus 994",
+  "portada": "a5088a58-9b61-44c8-a1a8-2a8b652e60a8.jpg",
+  "slug": "set-eco-friendly-plus-plus-994",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:35:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20dc"
+  },
+  "titulo": "Billetera Slim Pro 330",
+  "portada": "317541a2-2e6b-4fdc-9289-5e170b329dc1.jpg",
+  "slug": "billetera-slim-pro-330",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Bolsos de Mano",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:07:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20e3"
+  },
+  "titulo": "Cargador Rápido Lite 973",
+  "portada": "62e6eccb-cbf3-4a00-adca-b9231af76853.jpg",
+  "slug": "cargador-rapido-lite-973",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Audífonos",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:20:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20e9"
+  },
+  "titulo": "Portadocumentos Ejecutivo Pro 630",
+  "portada": "3b671ed2-2eb5-4a8b-bb59-aa2a0a9d766c.jpg",
+  "slug": "portadocumentos-ejecutivo-pro-630",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Neceseres",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:05:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20ef"
+  },
+  "titulo": "Maleta Weekend Lite 738",
+  "portada": "c28b49a3-290f-4c70-aeca-88503598320f.jpg",
+  "slug": "maleta-weekend-lite-738",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dac"
+  },
+  "subcategorias": "Maletas de Viaje",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:16:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f20f7"
+  },
+  "titulo": "Mochila Premium Gold Lite 432",
+  "portada": "ee9ae8b2-9b67-4cbf-a790-6e5d9ae025ad.jpg",
+  "slug": "mochila-premium-gold-lite-432",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc0"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:03:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2100"
+  },
+  "titulo": "Chaqueta City Pro 913",
+  "portada": "1d3240a3-e8fe-4cc5-9c54-ea3542a98cb9.jpg",
+  "slug": "chaqueta-city-pro-913",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Gorras y Sombreros",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f210b"
+  },
+  "titulo": "Kit Edición Limitada 2.0 688",
+  "portada": "1215a761-a065-4ff3-a364-7ef080076472.jpg",
+  "slug": "kit-edicion-limitada-2-0-688",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:58:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2110"
+  },
+  "titulo": "Estuche Triple Stars Premium 277",
+  "portada": "f1c098fa-477f-4e7d-9261-0793ce082b80.jpg",
+  "slug": "estuche-triple-stars-premium-277",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:22:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f211a"
+  },
+  "titulo": "Zapatillas Sweet Premium 873",
+  "portada": "6df0eeb8-5fe5-4bcd-9db4-6107f6edd1bb.jpg",
+  "slug": "zapatillas-sweet-premium-873",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Sandalias",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:45:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2122"
+  },
+  "titulo": "Estuche Triple Stars Pro 592",
+  "portada": "72f09eb3-b6b0-4faf-9377-ff5b35c7c9d2.jpg",
+  "slug": "estuche-triple-stars-pro-592",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Cartucheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:12:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2127"
+  },
+  "titulo": "Camiseta Princess 2.0 550",
+  "portada": "bb9e260f-640e-4363-9424-b0c9d7b0d0b9.jpg",
+  "slug": "camiseta-princess-2-0-550",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Pantalones",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:09:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2133"
+  },
+  "titulo": "Cargador Rápido 2.0 565",
+  "portada": "3ce72925-5a7f-4391-8091-5000d13ace43.jpg",
+  "slug": "cargador-rapido-2-0-565",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Accesorios para Celular",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:14:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f213d"
+  },
+  "titulo": "Lonchera Unicorn 2.0 198",
+  "portada": "a06f410e-77aa-4baf-a5bd-ad8d616a8017.jpg",
+  "slug": "lonchera-unicorn-2-0-198",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas para Niños",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:25:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2148"
+  },
+  "titulo": "Mochila Junior Pink Max 357",
+  "portada": "a794afa5-73eb-48fb-a0ac-7cdc4571b948.jpg",
+  "slug": "mochila-junior-pink-max-357",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas para Niños",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:17:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2150"
+  },
+  "titulo": "Tenis Sport Kid 2.0 760",
+  "portada": "237a4a7d-b92f-477a-8686-1724cc8aa59a.jpg",
+  "slug": "tenis-sport-kid-2-0-760",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Botas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:26:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2163"
+  },
+  "titulo": "Mochila Explorer Max 959",
+  "portada": "3f2e26ae-cad2-48f7-8357-e1798452d755.jpg",
+  "slug": "mochila-explorer-max-959",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dab"
+  },
+  "subcategorias": "Maletas de Viaje",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:43:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f216d"
+  },
+  "titulo": "Zapatillas Junior 2.0 381",
+  "portada": "4ad9d803-d10b-4d6b-bb21-9fc319436873.jpg",
+  "slug": "zapatillas-junior-2-0-381",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:17:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f217f"
+  },
+  "titulo": "Pantalón Slim Lite 623",
+  "portada": "8e665351-23a0-491b-8b8b-102d4fdad9d4.jpg",
+  "slug": "pantalon-slim-lite-623",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Sudaderas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:56:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2189"
+  },
+  "titulo": "Zapatillas City Fit Pro 233",
+  "portada": "09b78e13-677d-425a-87f0-8c781f185caa.jpg",
+  "slug": "zapatillas-city-fit-pro-233",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db8"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T03:08:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f219b"
+  },
+  "titulo": "Tenis Sport Girl Lite 316",
+  "portada": "9ed681b5-42c5-445e-8f0a-e1d2e131775a.jpg",
+  "slug": "tenis-sport-girl-lite-316",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:27:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21a8"
+  },
+  "titulo": "Camiseta Princess 2.0 750",
+  "portada": "01bac3da-19e0-498e-b720-00a217be5eca.jpg",
+  "slug": "camiseta-princess-2-0-750",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Gorras y Sombreros",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:15:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21b5"
+  },
+  "titulo": "Mochila Escolar Princess 2.0 736",
+  "portada": "60e71cbc-d44a-49c6-8b4b-664a7a204060.jpg",
+  "slug": "mochila-escolar-princess-2-0-736",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas para Niños",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21b9"
+  },
+  "titulo": "Estuche Tech Max 591",
+  "portada": "a195119a-20e4-441a-96c3-e1756c8efca0.jpg",
+  "slug": "estuche-tech-max-591",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7daf"
+  },
+  "subcategorias": "Portadocumentos",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:03:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21bd"
+  },
+  "titulo": "Mochila Premium Plus 468",
+  "portada": "01ce0f0d-a092-4978-be72-7dd115a743d7.jpg",
+  "slug": "mochila-premium-plus-468",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbf"
+  },
+  "subcategorias": "Premium",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:00:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21c4"
+  },
+  "titulo": "Audífonos Kid Lite 267",
+  "portada": "885d145e-b65b-4078-8995-5e001a3f8826.jpg",
+  "slug": "audifonos-kid-lite-267",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbd"
+  },
+  "subcategorias": "Accesorios para Celular",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:58:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21ce"
+  },
+  "titulo": "Camiseta Princess Plus 789",
+  "portada": "e8798550-3330-4e0f-b6d4-9400bd6abc5d.jpg",
+  "slug": "camiseta-princess-plus-789",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:57:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21db"
+  },
+  "titulo": "Pantalón Sweet Pro 796",
+  "portada": "4701296c-f2c8-47bf-9f8b-1c76bbaaf8b2.jpg",
+  "slug": "pantalon-sweet-pro-796",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db6"
+  },
+  "subcategorias": "Camisetas",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:29:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21ea"
+  },
+  "titulo": "Case Phone Fashion Premium 556",
+  "portada": "f3c55194-dbb1-4089-ba30-54f67a128825.jpg",
+  "slug": "case-phone-fashion-premium-556",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbc"
+  },
+  "subcategorias": "Audífonos",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:04:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f21f1"
+  },
+  "titulo": "Botas Explorer Pro 490",
+  "portada": "871ff54d-a924-4311-ae60-3f1ba62f90a4.jpg",
+  "slug": "botas-explorer-pro-490",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Sandalias",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:55:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2202"
+  },
+  "titulo": "Set Colección Infantil Plus 499",
+  "portada": "308b0162-1e94-4de8-ab68-d17cc5ebcc8b.jpg",
+  "slug": "set-coleccion-infantil-plus-499",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc1"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:16:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2208"
+  },
+  "titulo": "Tenis Jogging 2.0 439",
+  "portada": "1a7a10e9-0623-434c-a0c1-70cccdb45676.jpg",
+  "slug": "tenis-jogging-2-0-439",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db8"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:27:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2213"
+  },
+  "titulo": "Pantalón Slim 2.0 170",
+  "portada": "0a6e0487-4725-4e5a-8473-9af6c4a0bcd3.jpg",
+  "slug": "pantalon-slim-2-0-170",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db4"
+  },
+  "subcategorias": "Ropa Interior",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:19:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f221e"
+  },
+  "titulo": "Tenis Sport Kid Pro 124",
+  "portada": "f2eabed3-db4b-4556-86d0-abb4d655a838.jpg",
+  "slug": "tenis-sport-kid-pro-124",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:32:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2229"
+  },
+  "titulo": "Case Phone Cute Premium 816",
+  "portada": "2f8237d3-ce0f-46da-a9b3-c35a49480602.jpg",
+  "slug": "case-phone-cute-premium-816",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbe"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:32:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f222f"
+  },
+  "titulo": "Mochila Urbana Max 444",
+  "portada": "79fd1cb4-fe27-4526-9452-19884acdc5fe.jpg",
+  "slug": "mochila-urbana-max-444",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dab"
+  },
+  "subcategorias": "Mochilas Urbanas",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:27:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2236"
+  },
+  "titulo": "Sandalias Summer Kid Max 257",
+  "portada": "842894df-77e0-4f45-9fa5-2298ee94462d.jpg",
+  "slug": "sandalias-summer-kid-max-257",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:29:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f224a"
+  },
+  "titulo": "Zapatillas Junior Lite 345",
+  "portada": "f6ac34c1-935e-485d-a6be-5494540295c7.jpg",
+  "slug": "zapatillas-junior-lite-345",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T02:08:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2262"
+  },
+  "titulo": "Mochila Personajes Max 414",
+  "portada": "c5be0bcc-ec4d-4a1a-bcbc-df66c0505947.jpg",
+  "slug": "mochila-personajes-max-414",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc1"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:37:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2268"
+  },
+  "titulo": "Mochila Personajes Premium 745",
+  "portada": "25d4e099-392f-460c-87a1-30cbb9803286.jpg",
+  "slug": "mochila-personajes-premium-745",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc1"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:28:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f226f"
+  },
+  "titulo": "Botas Explorer Plus 910",
+  "portada": "e24167fb-3ac5-47d7-a832-27f4648e4e4c.jpg",
+  "slug": "botas-explorer-plus-910",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:45:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f227a"
+  },
+  "titulo": "Mochila Personajes Premium 111",
+  "portada": "8ddf60f2-1936-4fb5-a052-3d392f17059c.jpg",
+  "slug": "mochila-personajes-premium-111",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc1"
+  },
+  "subcategorias": "Colecciones Infantiles",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f227d"
+  },
+  "titulo": "Sandalias Summer Pro 474",
+  "portada": "c20956aa-8a70-4bc5-9de3-a4b27303c1c6.jpg",
+  "slug": "sandalias-summer-pro-474",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db8"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:26:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22a2"
+  },
+  "titulo": "Set Colección Sweet Max 674",
+  "portada": "9cf362b2-12ba-488d-81b4-8c06edd98e78.jpg",
+  "slug": "set-coleccion-sweet-max-674",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc2"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:22:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22a9"
+  },
+  "titulo": "Pantalón Cargo Lite 666",
+  "portada": "85a66816-4877-4036-894c-6616aeccb1ff.jpg",
+  "slug": "pantalon-cargo-lite-666",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db3"
+  },
+  "subcategorias": "Chaquetas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T03:02:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22b4"
+  },
+  "titulo": "Case Phone Pro 454",
+  "portada": "be95c733-7e73-4d94-8399-2db9b5b27f84.jpg",
+  "slug": "case-phone-pro-454",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Cargadores",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:10:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22bd"
+  },
+  "titulo": "Lonchera Unicorn Max 523",
+  "portada": "0b99ebf3-635f-4476-acd2-058c6eb8fc3f.jpg",
+  "slug": "lonchera-unicorn-max-523",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas Escolares",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:21:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22c2"
+  },
+  "titulo": "Mochila Personajes Girl 2.0 471",
+  "portada": "f5b92147-e9ab-469d-ba9b-5c70eca60734.jpg",
+  "slug": "mochila-personajes-girl-2-0-471",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc2"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:13:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22c5"
+  },
+  "titulo": "Audífonos Girl 2.0 595",
+  "portada": "642918ff-570d-4eb8-88ed-03e471bc7457.jpg",
+  "slug": "audifonos-girl-2-0-595",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbe"
+  },
+  "subcategorias": "Gadgets Infantiles",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:00:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22cb"
+  },
+  "titulo": "Cargador Color Plus 620",
+  "portada": "aa50a49f-024a-4c9b-9437-fbee8c26722d.jpg",
+  "slug": "cargador-color-plus-620",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbc"
+  },
+  "subcategorias": "Powerbanks",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:32:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22d1"
+  },
+  "titulo": "Case Phone Fun Pro 650",
+  "portada": "855178ff-4c83-4aa7-a2f4-9c7176a3a42b.jpg",
+  "slug": "case-phone-fun-pro-650",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbd"
+  },
+  "subcategorias": "Audífonos",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:07:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22d9"
+  },
+  "titulo": "Botas Urban Plus 611",
+  "portada": "114ddccf-a5cb-4cf3-981e-265558dbe167.jpg",
+  "slug": "botas-urban-plus-611",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db8"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:24:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22f0"
+  },
+  "titulo": "Cargador Rápido Max 124",
+  "portada": "7db24e66-156a-436d-b5fd-78d4f9e08273.jpg",
+  "slug": "cargador-rapido-max-124",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Gadgets",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:13:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f22f6"
+  },
+  "titulo": "Sandalias Summer Kid Premium 309",
+  "portada": "9a01a6e2-d183-4893-a357-39c6bcc54cfd.jpg",
+  "slug": "sandalias-summer-kid-premium-309",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dba"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:22:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f231c"
+  },
+  "titulo": "Case Phone Premium 941",
+  "portada": "cf4d3057-91f1-48e6-a2ab-abb501898c33.jpg",
+  "slug": "case-phone-premium-941",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbb"
+  },
+  "subcategorias": "Audífonos",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-16T23:24:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2320"
+  },
+  "titulo": "Camiseta Logo Max 147",
+  "portada": "fb8dfad1-095b-4f24-9ee8-926d9fb512e1.jpg",
+  "slug": "camiseta-logo-max-147",
+  "descripcion": "Línea exclusiva con los más altos estándares de calidad. Un producto indispensable para tu día a día.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db3"
+  },
+  "subcategorias": "Sudaderas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:21:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2333"
+  },
+  "titulo": "Tenis Runner 2.0 702",
+  "portada": "b0614781-3a2c-4f82-a7d7-646aa4bf9a45.jpg",
+  "slug": "tenis-runner-2-0-702",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:46:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f234f"
+  },
+  "titulo": "Cartuchera Dream Premium 586",
+  "portada": "d9ef0fd2-d15d-4b1b-a4d8-0b5f164585bd.jpg",
+  "slug": "cartuchera-dream-premium-586",
+  "descripcion": "Diseño minimalista pero funcional. Perfecto para quienes buscan simplicidad sin renunciar al estilo.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T00:34:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2357"
+  },
+  "titulo": "Sandalias Beach 2.0 926",
+  "portada": "4dd059e3-a583-4c2a-963e-e4a1fd98e280.jpg",
+  "slug": "sandalias-beach-2-0-926",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Masculino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db7"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:14:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2363"
+  },
+  "titulo": "Sandalias Fun 2.0 498",
+  "portada": "f208ba6d-0765-4769-8ab6-f2a9158ff89f.jpg",
+  "slug": "sandalias-fun-2-0-498",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:09:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2373"
+  },
+  "titulo": "Lonchera Princess Max 415",
+  "portada": "71744501-6c7b-4f3d-852b-87000aa5f0f0.jpg",
+  "slug": "lonchera-princess-max-415",
+  "descripcion": "Material duradero y tecnología avanzada. Combina funcionalidad y estilo para acompañarte en todas tus actividades.",
+  "etiqueta": "Oferta",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Estuches",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T00:48:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2379"
+  },
+  "titulo": "Tenis Sport Kid 2.0 398",
+  "portada": "72f4898d-86b8-4837-876c-5469539a4531.jpg",
+  "slug": "tenis-sport-kid-2-0-398",
+  "descripcion": "Fabricado con los mejores materiales, ofrece comodidad y espacio. Su diseño único refleja tu personalidad.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Casual",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4",
+    "etiqueta_5"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T03:03:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2389"
+  },
+  "titulo": "Bolso de Mano Evening Pro 159",
+  "portada": "7f3682a4-10d0-4312-837f-d21331c00397.jpg",
+  "slug": "bolso-de-mano-evening-pro-159",
+  "descripcion": "Diseño ergonómico y resistente, ideal para uso diario. Con compartimentos organizados para satisfacer todas tus necesidades.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db0"
+  },
+  "subcategorias": "Bolsos de Mano",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:29:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f2392"
+  },
+  "titulo": "Mochila Junior Pink 2.0 550",
+  "portada": "1d0a2c5d-29c9-4d6f-8662-5b8b7e69b15d.jpg",
+  "slug": "mochila-junior-pink-2-0-550",
+  "descripcion": "Funcionalidad excepcional con detalles prácticos. La opción ideal para quienes valoran la calidad y el diseño.",
+  "etiqueta": "Edición Limitada",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dae"
+  },
+  "subcategorias": "Mochilas Escolares",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3",
+    "etiqueta_4"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:48:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f239a"
+  },
+  "titulo": "Estuche Triple Stars Plus 691",
+  "portada": "57f2c4c0-9d54-4a37-bdf2-3fb594528ae9.jpg",
+  "slug": "estuche-triple-stars-plus-691",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db2"
+  },
+  "subcategorias": "Cartucheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-16T23:15:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f23a1"
+  },
+  "titulo": "Set Colección Sweet Max 929",
+  "portada": "5b0795f6-1269-40e3-871f-1423af7b319a.jpg",
+  "slug": "set-coleccion-sweet-max-929",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niñas",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dc2"
+  },
+  "subcategorias": "Personajes",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:33:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f23a9"
+  },
+  "titulo": "Tenis Sport Kid 2.0 815",
+  "portada": "04e40cd2-339b-4b38-bfc5-fc90cfa2a08c.jpg",
+  "slug": "tenis-sport-kid-2-0-815",
+  "descripcion": "Innovación y diseño de vanguardia. Un producto que destaca por su durabilidad y detalles cuidadosamente seleccionados.",
+  "etiqueta": "Exclusivo",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db9"
+  },
+  "subcategorias": "Zapatillas Deportivas",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T01:19:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f23b9"
+  },
+  "titulo": "Lonchera Hero Max 603",
+  "portada": "f2afda4c-a9c2-4a5d-abc8-2be39bb74fd8.jpg",
+  "slug": "lonchera-hero-max-603",
+  "descripcion": "Calidad premium y estilo contemporáneo. La combinación perfecta de practicidad y tendencia actual.",
+  "etiqueta": "Destacado",
+  "clasificacion": "Niños",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7db1"
+  },
+  "subcategorias": "Loncheras",
+  "labels": [
+    "etiqueta_1",
+    "etiqueta_2",
+    "etiqueta_3"
+  ],
+  "estado": false,
+  "createdAT": {
+    "$date": "2025-04-17T01:26:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68044757e58fe4e2192f23c1"
+  },
+  "titulo": "Audífonos Slim Lite 760",
+  "portada": "12895696-4265-466b-9d3b-854e055e017a.jpg",
+  "slug": "audifonos-slim-lite-760",
+  "descripcion": "Elaborado con tecnología de punta y materiales sostenibles. Un producto que cuida de ti y del medio ambiente.",
+  "etiqueta": "Nuevo",
+  "clasificacion": "Femenino",
+  "categoria": {
+    "$oid": "680446d22a16ea324e2a7dbc"
+  },
+  "subcategorias": "Cargadores",
+  "labels": [
+    "etiqueta_1"
+  ],
+  "estado": true,
+  "createdAT": {
+    "$date": "2025-04-17T02:46:17.000Z"
+  },
+  "__v": 0
+}]
